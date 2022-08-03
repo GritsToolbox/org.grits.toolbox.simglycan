@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            allPopups="false"
+            locationURI="menu:simian.main.menus.MSGlycanAnnotation?before=simian.main.menus.MSGlycanAnnotation.separator1">
+         <command
+               commandId="org.grits.toolbox.simglycan.command.ShowWizard"
+               label="Import SimGlycan Annotations"
+               style="push">
+         </command>
+      </menuContribution>
+      <menuContribution
+            allPopups="false"
+            locationURI="popup:projectexplorer.popup.submenu.new?after=ms.annotation.simiansearch.command.ShowWizard">
+         <command
+               commandId="org.grits.toolbox.simglycan.command.ShowWizard"
+               label="Import SimGlycan Annotations"
+               style="push">
+         </command>
+      </menuContribution>
+    </extension>     
+    <extension
+         point="org.eclipse.ui.handlers">
+       <handler
+            class="org.grits.toolbox.simglycan.handler.SimGlycanImportHandler"
+            commandId="org.grits.toolbox.simglycan.command.ShowWizard">
+      </handler> 
+    </extension>
+    <extension
+          id="org.grits.toolbox.simglycan.command.ShowWizard"
+          name="SimGlycanImport"
+          point="org.eclipse.ui.commands">
+       <command
+             id="org.grits.toolbox.simglycan.command.ShowWizard"
+             name="SimGlycanImport">
+       </command>
+    </extension>
+</plugin>

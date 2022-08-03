@@ -1,0 +1,1076 @@
+
+Profile Name 		MP-PJ-N-29-frag2
+Scan No 	Precursor ion m/z 	Intensity 	Charge 	Deconvoluted Mass (Mass + Na) 	Glycan Rank 	Composition Score 	Branching Score 	Glycan ID 	Composition 	Sequence 	Glycan Mass 	Carbohydrate Mass 	Single Glycosidic % Match: 	Single CrossRing % Match: 	Glycosidic-Glycosidic % Match: 	Single CrossRing-Glycosidic % Match: 	
+Scan2@946.137_3	946.137	266952.0	3	2792.432	1	1	1	G03802	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-3)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79(Asn)	2222.79	22.5	6.48	18.33	6.65	
+Scan2@946.137_3	946.137	266952.0	3	2792.432	2	1	2	G03948	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	22.5	5.3	18.33	6.67	
+Scan2@946.137_3	946.137	266952.0	3	2792.432	2	1	2	G00207	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	22.5	5.3	18.33	6.67	
+Scan2@946.137_3	946.137	266952.0	3	2792.432	2	1	2	G01143	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(1-4)GlcNAc	2222.79	2222.79	22.5	5.3	18.33	6.67	
+Scan2@946.137_3	946.137	266952.0	3	2792.432	2	1	2	G10702	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79(Asn)	2222.79	22.5	5.3	18.33	6.67	
+Scan2@946.137_3	946.137	266952.0	3	2792.432	3	1	3	G03905	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	22.5	3.79	18.33	6.45	
+
+Scan4@1407.71_2	1407.71	204050.0	2	2792.43	1	1	1	G03948	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	17.5	5.3	10.56	3.42	
+Scan4@1407.71_2	1407.71	204050.0	2	2792.43	1	1	1	G00207	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	17.5	5.3	10.56	3.42	
+Scan4@1407.71_2	1407.71	204050.0	2	2792.43	1	1	1	G01143	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(1-4)GlcNAc	2222.79	2222.79	17.5	5.3	10.56	3.42	
+Scan4@1407.71_2	1407.71	204050.0	2	2792.43	1	1	1	G10702	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79(Asn)	2222.79	17.5	5.3	10.56	3.42	
+Scan4@1407.71_2	1407.71	204050.0	2	2792.43	2	1	2	G03802	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-3)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79(Asn)	2222.79	17.5	4.63	10.56	3.33	
+Scan4@1407.71_2	1407.71	204050.0	2	2792.43	3	1	3	G03916	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	17.5	5.3	10.56	3.25	
+
+Scan6@1141.592_1	1141.592	117867.0	1	1141.592	1	1	1	G10653	(Fuc)1 (GlcNAc)2 (Man)2 (Asn)1	Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	894.34(Asn)	894.34	37.5	1.67	8.33	0.0	
+Scan6@1141.592_1	1141.592	117867.0	1	1141.592	1	1	1	G12335	(Fuc)1 (GlcNAc)2 (Man)2	Man(a1-3)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	894.34	894.34	37.5	1.67	8.33	0.0	
+Scan6@1141.592_1	1141.592	117867.0	1	1141.592	1	1	1	G02026	(Fuc)1 (GlcNAc)2 (Man)2	Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	894.34	894.34	37.5	1.67	8.33	0.0	
+Scan6@1141.592_1	1141.592	117867.0	1	1141.592	1	1	1	G00385	(Fuc)1 (GlcNAc)2 (Man)2	Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	894.34	894.34	37.5	1.67	8.33	0.0	
+Scan6@1141.592_1	1141.592	117867.0	1	1141.592	1	1	1	G11709	(Fuc)1 (GlcNAc)2 (Man)2 (Asn)1	Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	894.34(Asn)	894.34	37.5	1.67	8.33	0.0	
+
+Scan8@1216.61_3	1216.61	113646.0	3	3603.85	1	1	33	G01915	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	25.0	0.6	4.81	2.36	
+Scan8@1216.61_3	1216.61	113646.0	3	3603.85	2	2	37	G01874	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	15.38	0.6	4.17	2.41	
+Scan8@1216.61_3	1216.61	113646.0	3	3603.85	3	3	35	G03029	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	17.31	0.6	3.85	3.12	
+
+Scan10@929.474_2	929.474	96248.5	2	1835.958	1	1	1	G00468	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	28.57	0.0	5.95	1.35	
+Scan10@929.474_2	929.474	96248.5	2	1835.958	1	1	1	G00178	(Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1462.55(Asn)	1462.55	28.57	0.0	5.95	1.35	
+Scan10@929.474_2	929.474	96248.5	2	1835.958	1	1	1	G00016	(Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55(Asn)	1462.55	28.57	0.0	5.95	1.35	
+Scan10@929.474_2	929.474	96248.5	2	1835.958	2	1	2	G05494	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-6)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	28.57	0.0	5.95	1.17	
+Scan10@929.474_2	929.474	96248.5	2	1835.958	2	1	2	G05495	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-4)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	28.57	0.0	5.95	1.17	
+Scan10@929.474_2	929.474	96248.5	2	1835.958	3	1	3	G05037	(Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	GlcNAc(b1-4)Man(a1-3)[GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55(Asn)	1462.55	28.57	0.0	5.95	1.0	
+Scan10@929.474_2	929.474	96248.5	2	1835.958	3	1	3	G05493	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-4)Man(a1-3)[GlcNAc(b1-6)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	28.57	0.0	5.95	1.0	
+
+Scan12@903.45_2	903.45	75817.1	2	1783.91	1	1	1	G02243	(GlcNAc)2 (Man)6	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)Man(b1-4)GlcNAc(b1-4)GlcNAc	1396.49	1396.49	53.57	16.67	30.95	12.15	
+Scan12@903.45_2	903.45	75817.1	2	1783.91	2	1	2	G05437	(GlcNAc)2 (Man)6	Man(a1-2)Man(a1-3)Man(a1-6)[Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1396.49	1396.49	50.0	15.62	26.19	13.37	
+Scan12@903.45_2	903.45	75817.1	2	1783.91	3	1	3	G10595	(GlcNAc)2 (Man)6 (PP-Dol)1	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1396.49(PP-Dol)	1396.49	50.0	15.62	26.19	13.29	
+Scan12@903.45_2	903.45	75817.1	2	1783.91	3	1	3	G00522	(GlcNAc)2 (Man)6	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1396.49	1396.49	50.0	15.62	26.19	13.29	
+Scan12@903.45_2	903.45	75817.1	2	1783.91	3	1	3	G11014	(GlcNAc)2 (Man)6 (Asn)1	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1396.49(Asn)	1396.49	50.0	15.62	26.19	13.29	
+
+Scan14@1004.5_3	1004.5	67853.2	3	2967.52	1	1	1	G11975	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	22.73	6.94	11.36	6.37	
+Scan14@1004.5_3	1004.5	67853.2	3	2967.52	2	1	2	G10716	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85(Asn)	2368.85	22.73	6.94	11.36	6.29	
+Scan14@1004.5_3	1004.5	67853.2	3	2967.52	2	1	2	G00206	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	22.73	6.94	11.36	6.29	
+Scan14@1004.5_3	1004.5	67853.2	3	2967.52	2	1	2	G03840	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	22.73	6.94	11.36	6.29	
+Scan14@1004.5_3	1004.5	67853.2	3	2967.52	3	1	3	G03820	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	22.73	6.94	11.36	5.86	
+
+Scan16@801.4_2	801.4	67265.7	2	1579.81	1	1	1	G10338	(GlcNAc)2 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-6)[GlcNAc(b1-4)][Man(a1-3)]Man(b1-4)GlcNAc	1234.44	1234.44	41.67	5.95	10.0	0.88	
+Scan16@801.4_2	801.4	67265.7	2	1579.81	2	1	3	G05485	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-2)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	37.5	7.14	5.0	1.16	
+Scan16@801.4_2	801.4	67265.7	2	1579.81	3	1	4	G10874	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	37.5	7.14	5.0	1.15	
+Scan16@801.4_2	801.4	67265.7	2	1579.81	3	1	4	G02264	(GlcNAc)2 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44	1234.44	37.5	7.14	5.0	1.15	
+
+Scan18@1089.549_2	1089.549	62940.5	2	2156.108	1	1	1	G04205	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1712.62(Asn)	1712.62	28.12	5.56	16.96	4.12	
+Scan18@1089.549_2	1089.549	62940.5	2	2156.108	2	1	2	G04414	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1712.62	1712.62	28.12	5.56	16.96	3.86	
+Scan18@1089.549_2	1089.549	62940.5	2	2156.108	3	1	3	G12076	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1712.62	1712.62	28.12	5.56	16.96	3.46	
+
+Scan20@1227.119_2	1227.119	45625.5	2	2431.249	1	1	1	G00771	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69	1931.69	22.22	6.67	16.67	6.79	
+Scan20@1227.119_2	1227.119	45625.5	2	2431.249	1	1	1	G00203	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69(Asn)	1931.69	22.22	6.67	16.67	6.79	
+Scan20@1227.119_2	1227.119	45625.5	2	2431.249	2	1	2	G00205	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69(Asn)	1931.69	22.22	7.5	16.67	6.68	
+Scan20@1227.119_2	1227.119	45625.5	2	2431.249	2	1	2	G12041	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69	1931.69	22.22	7.5	16.67	6.68	
+Scan20@1227.119_2	1227.119	45625.5	2	2431.249	3	1	3	G04207	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69	1931.69	22.22	6.67	16.67	6.57	
+
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	1	1	1	G10687	(Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63(Asn)	1665.63	15.62	0.0	13.39	0.65	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	1	1	1	G00452	(Fuc)1 (GlcNAc)5 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	15.62	0.0	13.39	0.65	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	2	1	2	G05088	(Fuc)1 (GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	15.62	0.0	13.39	0.52	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	2	1	2	G10831	(Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63(Asn)	1665.63	15.62	0.0	13.39	0.52	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	2	1	2	G10774	(Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63(Asn)	1665.63	15.62	0.0	13.39	0.52	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	2	1	2	G00620	(Fuc)1 (GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	15.62	0.0	13.39	0.52	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	2	1	2	G00774	(Fuc)1 (GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	15.62	0.0	13.39	0.52	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	3	1	3	G04739	(Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	12.5	0.0	11.61	0.66	
+Scan23@1052.034_2	1052.034	87802.9	2	2081.078	3	1	3	G02841	(Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	12.5	0.0	11.61	0.66	
+
+Scan25@1154.085_2	1154.085	67360.0	2	2285.18	1	1	1	G04543	(Gal)1 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1827.68	1827.68	19.44	0.0	5.56	1.27	
+Scan25@1154.085_2	1154.085	67360.0	2	2285.18	2	2	9	G01837	(Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1827.68	1827.68	8.33	1.67	4.17	1.26	
+Scan25@1154.085_2	1154.085	67360.0	2	2285.18	2	2	9	G12034	(Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1827.68	1827.68	8.33	1.67	4.17	1.26	
+Scan25@1154.085_2	1154.085	67360.0	2	2285.18	3	3	2	G02214	(Gal)1 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1827.68	1827.68	16.67	3.33	5.56	1.46	
+
+Scan27@1274.97_3	1274.97	81510.1	3	3778.93	1	1	1	G04224	(NeuAc)1 (Gal)5 (GlcNAc)7 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3027.09(Asn)	3027.09	13.33	3.12	15.48	6.12	
+
+Scan29@1031.521_2	1031.521	78502.4	2	2040.051	1	1	7	G04692	(Fuc)1 (GlcNAc)3 (GalNAc)1 (Man)4	GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1624.6	1624.6	25.0	2.78	11.61	3.14	
+Scan29@1031.521_2	1031.521	78502.4	2	2040.051	2	2	1	G04973	(Gal)1 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1624.6	1624.6	37.5	4.63	12.5	3.95	
+Scan29@1031.521_2	1031.521	78502.4	2	2040.051	3	2	2	G10775	(Gal)1 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1624.6(Asn)	1624.6	37.5	4.63	12.5	3.82	
+Scan29@1031.521_2	1031.521	78502.4	2	2040.051	3	2	2	G00414	(Gal)1 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1624.6	1624.6	37.5	4.63	12.5	3.82	
+
+Scan31@941.461_3	941.461	38680.6	3	2778.404	1	1	1	G11942	(NeuAc)1 (Gal)2 (Fuc)2 (GlcNAc)4 (Man)3 (Asn)1	Fuc(a1-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2223.81(Asn)	2223.81	29.55	4.17	14.55	7.21	
+Scan31@941.461_3	941.461	38680.6	3	2778.404	2	2	2	G01805	(NeuAc)1 (Gal)2 (Fuc)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2223.81	2223.81	29.55	6.25	11.82	8.83	
+Scan31@941.461_3	941.461	38680.6	3	2778.404	3	2	3	G03813	(NeuAc)1 (Gal)2 (Fuc)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2223.81(Asn)	2223.81	29.55	2.78	11.82	8.21	
+
+Scan33@1107.55_2	1107.55	63205.7	2	2192.111	1	1	1	G00341	(GlcNAc)2 (Man)8	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6	1720.6	38.89	4.17	25.0	6.25	
+Scan33@1107.55_2	1107.55	63205.7	2	2192.111	1	1	1	G10695	(GlcNAc)2 (Man)8 (Asn)1	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6(Asn)	1720.6	38.89	4.17	25.0	6.25	
+Scan33@1107.55_2	1107.55	63205.7	2	2192.111	2	1	2	G04532	(GlcNAc)2 (Man)8	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)][GlcNAc(b1-4)]Man(a1-6)[Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc	1720.6	1720.6	36.11	4.17	25.69	5.68	
+Scan33@1107.55_2	1107.55	63205.7	2	2192.111	3	1	3	G04534	(Glc)3 (GlcNAc)2 (Man)5 (PP-Dol)1	Glc(b1-4)Man(a1-3)[Glc(b1-4)Man(a1-6)]Man(a1-6)[Glc(b1-4)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6(PP-Dol)	1720.6	38.89	4.17	25.0	4.92	
+
+Scan35@1400.697_2	1400.697	28102.0	2	2778.403	1	1	1	G11942	(NeuAc)1 (Gal)2 (Fuc)2 (GlcNAc)4 (Man)3 (Asn)1	Fuc(a1-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2223.81(Asn)	2223.81	15.91	1.39	10.91	5.5	
+Scan35@1400.697_2	1400.697	28102.0	2	2778.403	2	2	2	G03813	(NeuAc)1 (Gal)2 (Fuc)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2223.81(Asn)	2223.81	15.91	0.69	10.0	5.91	
+Scan35@1400.697_2	1400.697	28102.0	2	2778.403	3	2	3	G10719	(NeuAc)1 (Gal)2 (Fuc)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2223.81(Asn)	2223.81	15.91	0.69	10.0	5.63	
+Scan35@1400.697_2	1400.697	28102.0	2	2778.403	3	2	3	G00529	(NeuAc)1 (Gal)2 (Fuc)2 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2223.81	2223.81	15.91	0.69	10.0	5.63	
+
+Scan37@1314.161_2	1314.161	40490.4	2	2605.333	1	1	1	G11987	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75	2077.75	22.5	3.03	10.0	4.35	
+Scan37@1314.161_2	1314.161	40490.4	2	2605.333	2	1	2	G03987	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75	2077.75	22.5	3.03	10.0	4.3	
+Scan37@1314.161_2	1314.161	40490.4	2	2605.333	2	1	2	G00204	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75(Asn)	2077.75	22.5	3.03	10.0	4.3	
+Scan37@1314.161_2	1314.161	40490.4	2	2605.333	3	1	3	G11998	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[Gal(b1-3)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75	2077.75	22.5	3.03	10.0	4.3	
+
+Scan39@965.49_3	965.49	40800.8	3	2850.49	1	1	1	G10699	(NeuGc)2 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2254.78(Asn)	2254.78	2.5	6.06	6.67	1.93	
+Scan39@965.49_3	965.49	40800.8	3	2850.49	1	1	1	G01642	(NeuGc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2254.78	2254.78	2.5	6.06	6.67	1.93	
+Scan39@965.49_3	965.49	40800.8	3	2850.49	2	1	2	G03912	(NeuGc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2254.78	2254.78	2.5	5.3	6.67	1.93	
+Scan39@965.49_3	965.49	40800.8	3	2850.49	3	2	4	G03958	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2280.83	2280.83	11.36	1.39	2.73	1.48	
+Scan39@965.49_3	965.49	40800.8	3	2850.49	3	2	4	G03898	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2280.83(Asn)	2280.83	11.36	1.39	2.73	1.48	
+
+Scan41@1241.13_2	1241.13	33937.7	2	2459.27	1	1	4	G04285	(Gal)1 (Fuc)2 (GlcNAc)5 (Man)3 (Asn)1	Fuc(a1-3)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1973.74(Asn)	1973.74	30.0	1.52	10.56	2.12	
+Scan41@1241.13_2	1241.13	33937.7	2	2459.27	2	2	5	G02191	(NeuGc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1947.69	1947.69	8.33	3.33	6.94	5.28	
+Scan41@1241.13_2	1241.13	33937.7	2	2459.27	2	2	5	G10788	(NeuGc)1 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1947.69(Asn)	1947.69	8.33	3.33	6.94	5.28	
+Scan41@1241.13_2	1241.13	33937.7	2	2459.27	3	3	1	G04351	(Gal)1 (Fuc)2 (GlcNAc)4 (GalNAc)1 (Man)3	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1973.74	1973.74	30.0	2.27	15.56	3.2	
+
+Scan44@938.807_3	938.807	265588.0	3	2770.441	0	0	0	No Results Found 									
+
+Scan46@1085.873_3	1085.873	161737.0	3	3211.639	1	1	3	G11703	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93	2571.93	20.83	8.33	10.23	3.94	
+Scan46@1085.873_3	1085.873	161737.0	3	3211.639	1	1	3	G11906	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93(Asn)	2571.93	20.83	8.33	10.23	3.94	
+Scan46@1085.873_3	1085.873	161737.0	3	3211.639	2	1	4	G03760	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93	2571.93	20.83	5.77	10.23	3.52	
+Scan46@1085.873_3	1085.873	161737.0	3	3211.639	3	1	5	G00701	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93	2571.93	20.83	3.21	10.23	3.1	
+Scan46@1085.873_3	1085.873	161737.0	3	3211.639	3	1	5	G11357	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93(Asn)	2571.93	20.83	3.21	10.23	3.1	
+
+Scan48@1134.07_2	1134.07	261464.0	2	2245.15	1	1	1	G04697	(Fuc)1 (GlcNAc)3 (GalNAc)1 (Man)5	GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	33.33	13.33	22.22	5.6	
+Scan48@1134.07_2	1134.07	261464.0	2	2245.15	2	1	2	G04721	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1786.66	1786.66	36.11	20.0	20.83	7.3	
+Scan48@1134.07_2	1134.07	261464.0	2	2245.15	3	1	3	G04760	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1786.66	1786.66	36.11	18.33	20.83	6.97	
+
+Scan50@961.13_3	961.13	153786.0	3	2837.41	1	1	3	G10850	(NeuGc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2255.8(Asn)	2255.8	15.91	8.33	12.27	8.43	
+Scan50@961.13_3	961.13	153786.0	3	2837.41	1	1	3	G01320	(NeuGc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2255.8	2255.8	15.91	8.33	12.27	8.43	
+Scan50@961.13_3	961.13	153786.0	3	2837.41	1	1	3	G03876	(NeuGc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2255.8	2255.8	15.91	8.33	12.27	8.43	
+Scan50@961.13_3	961.13	153786.0	3	2837.41	2	2	1	G11928	(Gal)2 (Fuc)3 (GlcNAc)5 (Man)3	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2281.85	2281.85	31.25	4.49	24.24	10.25	
+Scan50@961.13_3	961.13	153786.0	3	2837.41	3	3	2	G01808	(Gal)2 (Fuc)3 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2281.85	2281.85	27.08	5.77	18.94	13.06	
+
+Scan52@1343.68_2	1343.68	163368.0	2	2664.37	1	1	1	G11915	(Gal)2 (Fuc)2 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2135.79(Asn)	2135.79	36.36	14.58	19.55	13.45	
+Scan52@1343.68_2	1343.68	163368.0	2	2664.37	1	1	1	G11979	(Gal)2 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2135.79	2135.79	36.36	14.58	19.55	13.45	
+Scan52@1343.68_2	1343.68	163368.0	2	2664.37	2	1	2	G11969	(Gal)2 (Fuc)2 (GlcNAc)4 (GalNAc)1 (Man)3	Fuc(a1-2)[GalNAc(a1-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2135.79	2135.79	34.09	14.58	19.55	13.11	
+Scan52@1343.68_2	1343.68	163368.0	2	2664.37	3	1	3	G02710	(Gal)2 (Fuc)2 (GlcNAc)4 (GalNAc)1 (Man)3	Fuc(a1-2)[GalNAc(a1-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2135.79	2135.79	34.09	14.58	19.55	12.89	
+
+Scan54@825.741_3	825.741	166707.0	3	2431.242	1	1	1	G00205	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69(Asn)	1931.69	19.44	5.0	15.97	6.36	
+Scan54@825.741_3	825.741	166707.0	3	2431.242	1	1	1	G12041	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69	1931.69	19.44	5.0	15.97	6.36	
+Scan54@825.741_3	825.741	166707.0	3	2431.242	2	1	2	G04207	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69	1931.69	19.44	5.0	15.97	6.36	
+Scan54@825.741_3	825.741	166707.0	3	2431.242	3	1	3	G00771	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69	1931.69	19.44	5.0	15.97	6.25	
+Scan54@825.741_3	825.741	166707.0	3	2431.242	3	1	3	G00203	(NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1931.69(Asn)	1931.69	19.44	5.0	15.97	6.25	
+
+Scan56@1220.61_2	1220.61	170646.0	2	2418.23	1	1	2	G04394	(Gal)2 (Fuc)2 (GlcNAc)4 (Man)3	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1932.71	1932.71	45.0	21.21	32.78	16.43	
+Scan56@1220.61_2	1220.61	170646.0	2	2418.23	2	1	3	G04452	(Gal)2 (Fuc)2 (GlcNAc)4 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Gal(b1-3)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1932.71	1932.71	47.5	24.24	30.56	18.66	
+Scan56@1220.61_2	1220.61	170646.0	2	2418.23	3	1	4	G10708	(Gal)2 (Fuc)2 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1932.71(Asn)	1932.71	47.5	24.24	30.56	18.66	
+Scan56@1220.61_2	1220.61	170646.0	2	2418.23	3	1	4	G02764	(Gal)2 (Fuc)2 (GlcNAc)4 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1932.71	1932.71	47.5	24.24	30.56	18.66	
+
+Scan58@883.771_3	883.771	155949.0	3	2605.334	1	1	1	G11987	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75	2077.75	27.5	6.06	12.22	8.02	
+Scan58@883.771_3	883.771	155949.0	3	2605.334	2	1	2	G11998	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[Gal(b1-3)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75	2077.75	27.5	6.06	12.22	7.73	
+Scan58@883.771_3	883.771	155949.0	3	2605.334	3	1	3	G03987	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75	2077.75	27.5	6.06	12.22	7.73	
+Scan58@883.771_3	883.771	155949.0	3	2605.334	3	1	3	G00204	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2077.75(Asn)	2077.75	27.5	6.06	12.22	7.73	
+
+Scan60@1335.18_2	1335.18	190096.0	2	2647.37	1	1	3	G11994	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2118.78	2118.78	15.0	5.3	12.78	3.35	
+Scan60@1335.18_2	1335.18	190096.0	2	2647.37	2	2	2	G04066	(S)1 (NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2198.73	2118.78	15.0	5.3	12.78	3.44	
+Scan60@1335.18_2	1335.18	190096.0	2	2647.37	2	2	2	G02692	(S)1 (NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2198.73	2118.78	15.0	5.3	12.78	3.44	
+Scan60@1335.18_2	1335.18	190096.0	2	2647.37	3	2	4	G04065	(S)1 (NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2198.73	2118.78	15.0	3.79	12.78	3.18	
+
+Scan62@1345.69_1	1345.69	164194.0	1	1345.69	1	1	1	G10661	(Fuc)1 (GlcNAc)2 (Man)3 (Asn)1	Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1056.39(Asn)	1056.39	40.0	2.78	10.0	0.62	
+Scan62@1345.69_1	1345.69	164194.0	1	1345.69	1	1	1	G00286	(Fuc)1 (GlcNAc)2 (Man)3	Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1056.39	1056.39	40.0	2.78	10.0	0.62	
+Scan62@1345.69_1	1345.69	164194.0	1	1345.69	2	1	2	G01005	(Fuc)1 (GlcNAc)2 (Man)3	Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1056.39	1056.39	40.0	1.39	10.0	0.62	
+Scan62@1345.69_1	1345.69	164194.0	1	1345.69	3	2	3	G01964	(Gal)1 (Fuc)1 (GlcNAc)2 (Man)2	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)Man(b1-4)GlcNAc	1056.39	1056.39	15.0	1.39	5.0	0.34	
+Scan62@1345.69_1	1345.69	164194.0	1	1345.69	3	2	3	G03047	(Gal)1 (Fuc)1 (GlcNAc)2 (Man)2	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)Man(b1-4)GlcNAc	1056.39	1056.39	15.0	1.39	5.0	0.34	
+
+Scan65@1209.6_2	1209.6	620551.0	2	2396.21	1	1	1	G10337	(GlcNAc)2 (Man)9	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc	1882.65	1882.65	37.5	1.52	25.56	4.63	
+Scan65@1209.6_2	1209.6	620551.0	2	2396.21	2	2	2	G04524	(GlcNAc)2 (Man)9	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-3)]Man(a1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	37.5	2.27	16.67	4.15	
+Scan65@1209.6_2	1209.6	620551.0	2	2396.21	2	2	2	G00374	(GlcNAc)2 (Man)9	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	37.5	2.27	16.67	4.15	
+Scan65@1209.6_2	1209.6	620551.0	2	2396.21	2	2	2	G00011	(GlcNAc)2 (Man)9 (Asn)1	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65(Asn)	1882.65	37.5	2.27	16.67	4.15	
+Scan65@1209.6_2	1209.6	620551.0	2	2396.21	2	2	2	G04483	(Gal)1 (GlcNAc)2 (Man)8	Man(a1-2)Man(a1-6)[Gal(a1-2)Man(a1-3)]Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	37.5	2.27	16.67	4.15	
+Scan65@1209.6_2	1209.6	620551.0	2	2396.21	3	2	3	G11960	(Glc)1 (GlcNAc)2 (Man)8 (Asn)1	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Glc(a1-3)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65(Asn)	1882.65	37.5	2.27	16.67	4.14	
+
+Scan67@1095.878_3	1095.878	318276.0	3	3241.654	1	1	1	G01794	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	20.83	8.33	14.39	6.88	
+Scan67@1095.878_3	1095.878	318276.0	3	3241.654	2	1	2	G12924	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	20.83	8.33	14.39	6.83	
+Scan67@1095.878_3	1095.878	318276.0	3	3241.654	3	1	3	G03701	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	20.83	8.33	14.39	6.76	
+
+Scan69@1081.88_3	1081.88	451434.0	3	3199.66	1	1	1	G02655	(NeuAc)2 (Gal)4 (GlcNAc)4 (Man)3	Gal(b1-4)[NeuAc(a2-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[NeuAc(a2-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2546.9	2546.9	31.25	19.87	17.42	20.9	
+Scan69@1081.88_3	1081.88	451434.0	3	3199.66	2	1	2	G03674	(NeuAc)2 (Gal)4 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2546.9	2546.9	22.92	19.87	17.8	20.02	
+
+Scan71@1256.137_2	1256.137	313477.0	2	2489.285	1	1	7	G02202	(Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1989.74	1989.74	35.0	23.48	22.22	7.23	
+Scan71@1256.137_2	1256.137	313477.0	2	2489.285	2	1	8	G04293	(Gal)2 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1989.74(Asn)	1989.74	32.5	24.24	18.89	7.84	
+Scan71@1256.137_2	1256.137	313477.0	2	2489.285	3	1	9	G04189	(Gal)3 (Fuc)1 (GlcNAc)5 (Man)2 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)[Gal(b1-4)GlcNAc(b1-2)]Man(b1-3)[Gal(b1-4)GlcNAc(b1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1989.74(Asn)	1989.74	32.5	21.97	15.56	8.82	
+
+Scan73@937.49_3	937.49	420879.0	3	2766.49	0	0	0	No Results Found 									
+
+Scan75@1125.57_2	1125.57	392988.0	2	2228.15	1	1	1	G12044	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-6)[GlcNAc(b1-4)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64(Asn)	1769.64	34.38	14.81	21.43	11.36	
+Scan75@1125.57_2	1125.57	392988.0	2	2228.15	2	1	2	G11407	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64(Asn)	1769.64	34.38	14.81	21.43	9.78	
+Scan75@1125.57_2	1125.57	392988.0	2	2228.15	2	1	2	G04416	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64	1769.64	34.38	14.81	21.43	9.78	
+Scan75@1125.57_2	1125.57	392988.0	2	2228.15	3	1	3	G02741	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64(Asn)	1769.64	34.38	14.81	21.43	9.51	
+
+Scan77@806.906_2	806.906	406632.0	2	1590.822	1	1	1	G01454	(Fuc)1 (GlcNAc)3 (Man)3	Man(a1-3)[GlcNAc(b1-4)][Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1259.47	1259.47	45.83	19.05	16.67	6.19	
+Scan77@806.906_2	806.906	406632.0	2	1590.822	2	1	2	G12206	(Fuc)1 (GlcNAc)3 (Man)3	GlcNAc(b1-6)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1259.47	1259.47	50.0	21.43	15.0	5.58	
+Scan77@806.906_2	806.906	406632.0	2	1590.822	3	1	3	G05888	(Fuc)1 (GlcNAc)3 (Man)3	GlcNAc(b1-2)Man(a1-2)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1259.47	1259.47	50.0	16.67	15.0	6.19	
+
+Scan79@1046.53_2	1046.53	378488.0	2	2070.07	1	1	1	G04816	(GlcNAc)4 (Man)5 (Asn)1	Man(a1-3)[GlcNAc(b1-4)][Man(a1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1640.6(Asn)	1640.6	31.25	2.78	24.11	1.45	
+Scan79@1046.53_2	1046.53	378488.0	2	2070.07	2	1	2	G02821	(GlcNAc)4 (Man)5 (Asn)1	GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(a1-6)[GlcNAc(b1-4)][Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1640.6(Asn)	1640.6	31.25	3.7	22.32	1.71	
+Scan79@1046.53_2	1046.53	378488.0	2	2070.07	3	1	6	G02845	(Gal)2 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1640.6	1640.6	28.12	0.93	19.64	1.34	
+
+Scan81@1023.512_3	1023.512	266805.0	3	3024.555	1	1	1	G02179	(NeuGc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2400.84	2400.84	25.0	7.64	14.09	11.86	
+Scan81@1023.512_3	1023.512	266805.0	3	3024.555	1	1	1	G10840	(NeuGc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2400.84(Asn)	2400.84	25.0	7.64	14.09	11.86	
+
+Scan83@1019.51_3	1019.51	303522.0	3	3012.55	0	0	0	No Results Found 									
+
+Scan86@1103.553_2	1103.553	29907.5	2	2184.116	1	1	1	G00729	(NeuAc)1 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	1728.61	1728.61	25.0	7.41	18.75	6.95	
+Scan86@1103.553_2	1103.553	29907.5	2	2184.116	2	1	2	G04629	(NeuAc)1 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc	1728.61	1728.61	25.0	5.56	18.75	6.95	
+Scan86@1103.553_2	1103.553	29907.5	2	2184.116	3	1	3	G02757	(NeuAc)1 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	1728.61	1728.61	25.0	5.56	18.75	6.15	
+
+Scan88@712.362_1	712.362	639664.0	1	712.362	0	0	0	No Results Found 									
+
+Scan89@1067.039_2	1067.039	446297.0	2	2111.088	1	1	3	G10993	(Gal)1 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1681.62(Asn)	1681.62	34.38	0.0	14.29	1.33	
+Scan89@1067.039_2	1067.039	446297.0	2	2111.088	1	1	3	G00660	(Gal)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1681.62	1681.62	34.38	0.0	14.29	1.33	
+Scan89@1067.039_2	1067.039	446297.0	2	2111.088	1	1	3	G00661	(Gal)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1681.62	1681.62	34.38	0.0	14.29	1.33	
+Scan89@1067.039_2	1067.039	446297.0	2	2111.088	1	1	3	G10820	(Gal)1 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1681.62(Asn)	1681.62	34.38	0.0	14.29	1.33	
+Scan89@1067.039_2	1067.039	446297.0	2	2111.088	2	1	7	G04850	(Gal)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-4)][Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1681.62	1681.62	31.25	0.0	13.39	1.58	
+Scan89@1067.039_2	1067.039	446297.0	2	2111.088	3	2	4	G04994	(Gal)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1681.62	1681.62	34.38	0.0	13.39	1.6	
+Scan89@1067.039_2	1067.039	446297.0	2	2111.088	3	2	4	G05060	(Gal)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1681.62	1681.62	34.38	0.0	13.39	1.6	
+
+Scan91@978.796_3	978.796	432239.0	3	2890.409	1	1	1	G11918	(S)1 (NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)5 (GalNAc)1 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2401.81	2321.86	56.82	44.44	60.45	51.84	
+
+Scan93@951.47_3	951.47	334464.0	3	2808.43	1	1	3	G03959	(Neu)1 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	Neu(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2238.82	2238.82	38.64	22.92	23.18	21.68	
+Scan93@951.47_3	951.47	334464.0	3	2808.43	2	2	1	G03883	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8	2239.8	38.64	18.06	24.55	20.86	
+Scan93@951.47_3	951.47	334464.0	3	2808.43	3	2	2	G10712	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8(Asn)	2239.8	38.64	18.06	24.55	20.36	
+Scan93@951.47_3	951.47	334464.0	3	2808.43	3	2	2	G03882	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8	2239.8	38.64	18.06	24.55	20.36	
+Scan93@951.47_3	951.47	334464.0	3	2808.43	3	2	2	G02182	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8	2239.8	38.64	18.06	24.55	20.36	
+
+Scan95@987.492_2	987.492	494180.0	2	1951.995	1	1	1	G04400	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)2 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1550.56(Asn)	1550.56	32.14	12.5	23.81	6.12	
+Scan95@987.492_2	987.492	494180.0	2	1951.995	2	1	2	G11710	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)2 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1550.56(Asn)	1550.56	32.14	11.46	23.81	5.59	
+
+Scan97@908.956_2	908.956	512621.0	2	1794.922	1	1	1	G05420	(Gal)1 (Fuc)1 (GlcNAc)3 (Man)3	Gal(b1-4)GlcNAc(b1-6)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1421.52	1421.52	53.57	15.62	23.81	7.38	
+Scan97@908.956_2	908.956	512621.0	2	1794.922	2	1	2	G00664	(Gal)1 (Fuc)1 (GlcNAc)3 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1421.52	1421.52	53.57	14.58	23.81	7.48	
+Scan97@908.956_2	908.956	512621.0	2	1794.922	2	1	2	G10773	(Gal)1 (Fuc)1 (GlcNAc)3 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1421.52(Asn)	1421.52	53.57	14.58	23.81	7.48	
+Scan97@908.956_2	908.956	512621.0	2	1794.922	3	1	3	G00365	(Gal)1 (Fuc)1 (GlcNAc)3 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1421.52	1421.52	53.57	15.62	23.81	6.8	
+Scan97@908.956_2	908.956	512621.0	2	1794.922	3	1	3	G10772	(Gal)1 (Fuc)1 (GlcNAc)3 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1421.52(Asn)	1421.52	53.57	15.62	23.81	6.8	
+
+Scan99@956.135_3	956.135	244772.0	3	2822.427	1	1	1	G03914	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	22.5	21.21	17.22	11.14	
+Scan99@956.135_3	956.135	244772.0	3	2822.427	2	1	2	G03915	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	22.5	18.94	17.22	10.7	
+Scan99@956.135_3	956.135	244772.0	3	2822.427	3	1	3	G03913	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	22.5	18.18	17.22	10.53	
+
+Scan101@1328.68_2	1328.68	453868.0	2	2634.37	1	1	1	G02690	(NeuGc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2093.75	2093.75	27.5	8.33	21.11	13.83	
+Scan101@1328.68_2	1328.68	453868.0	2	2634.37	2	1	3	G04064	(NeuAc)1 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2093.75	2093.75	37.5	15.91	13.89	13.1	
+Scan101@1328.68_2	1328.68	453868.0	2	2634.37	3	2	2	G12006	(NeuAc)1 (Gal)3 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2093.75	2093.75	25.0	15.91	17.22	11.75	
+Scan101@1328.68_2	1328.68	453868.0	2	2634.37	3	2	2	G04017	(NeuAc)1 (Gal)3 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2093.75	2093.75	25.0	15.91	17.22	11.75	
+
+Scan103@1307.66_2	1307.66	420043.0	2	2592.33	1	1	1	G11936	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77(Asn)	2078.77	43.18	27.78	37.73	19.96	
+Scan103@1307.66_2	1307.66	420043.0	2	2592.33	1	1	1	G00976	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77	2078.77	43.18	27.78	37.73	19.96	
+Scan103@1307.66_2	1307.66	420043.0	2	2592.33	2	1	2	G11985	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77	2078.77	43.18	27.08	37.73	19.86	
+Scan103@1307.66_2	1307.66	420043.0	2	2592.33	2	1	2	G04130	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77(Asn)	2078.77	43.18	27.08	37.73	19.86	
+Scan103@1307.66_2	1307.66	420043.0	2	2592.33	3	1	3	G04211	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3	Fuc(a1-2)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77	2078.77	47.73	27.78	29.09	17.17	
+
+Scan106@1212.11_2	1212.11	669734.0	2	2401.23	1	1	1	G12029	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7	1915.7	25.0	10.83	13.89	6.65	
+Scan106@1212.11_2	1212.11	669734.0	2	2401.23	2	1	2	G00974	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7(Asn)	1915.7	25.0	10.83	13.89	6.54	
+Scan106@1212.11_2	1212.11	669734.0	2	2401.23	2	1	2	G01645	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7	1915.7	25.0	10.83	13.89	6.54	
+Scan106@1212.11_2	1212.11	669734.0	2	2401.23	3	1	3	G12021	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7(Asn)	1915.7	25.0	9.17	13.89	6.54	
+
+Scan108@1249.62_3	1249.62	283023.0	3	3702.88	1	1	1	G03679	(Gal)4 (GlcNAc)9 (Man)3	GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2980.1	2980.1	35.0	16.67	33.81	29.99	
+
+Scan110@1366.69_3	1366.69	392594.0	3	4054.09	0	0	0	No Results Found 									
+
+Scan112@1231.61_3	1231.61	276694.0	3	3648.85	1	1	1	G04223	(Neu)3 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	Neu(a2-3)Gal(a1-4)GlcNAc(b1-2)[Neu(a2-3)Gal(a1-4)GlcNAc(b1-4)]Man(a1-6)[Neu(a2-3)Gal(a1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2899.04(Asn)	2899.04	8.93	11.11	10.44	13.36	
+
+Scan114@1077.55_3	1077.55	333241.0	3	3186.671	1	1	1	G03686	(Neu)1 (Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Neu(a2-6)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2546.93	2546.93	40.38	20.24	33.65	27.63	
+
+Scan116@1118.57_2	1118.57	310550.0	2	2214.15	1	1	1	G04387	(Gal)2 (Fuc)2 (GlcNAc)4 (Man)2 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1770.66(Asn)	1770.66	41.67	10.0	21.53	10.81	
+Scan116@1118.57_2	1118.57	310550.0	2	2214.15	2	1	2	G04312	(Gal)2 (Fuc)2 (GlcNAc)4 (Man)2 (Asn)1	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1770.66(Asn)	1770.66	36.11	10.83	21.53	10.9	
+
+Scan118@1285.65_3	1285.65	310337.0	3	3810.971	0	0	0	No Results Found 									
+
+Scan120@1007.01_2	1007.01	333275.0	2	1991.03	0	0	0	No Results Found 									
+
+Scan122@1149.91_3	1149.91	299260.0	3	3403.751	1	1	1	G03661	(NeuAc)1 (Gal)3 (Fuc)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2735.0	2735.0	37.5	25.0	19.51	15.98	
+
+Scan124@792.462_1	792.462	297902.0	1	792.462	0	0	0	No Results Found 									
+
+Scan127@917.95_4	917.95	484988.0	4	3602.832	1	1	1	G01915	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	55.77	33.33	29.49	29.67	
+Scan127@917.95_4	917.95	484988.0	4	3602.832	2	1	2	G05335	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	55.77	32.14	29.17	28.4	
+Scan127@917.95_4	917.95	484988.0	4	3602.832	3	1	3	G05330	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	55.77	32.14	29.17	28.29	
+Scan127@917.95_4	917.95	484988.0	4	3602.832	3	1	3	G05331	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	55.77	32.14	29.17	28.29	
+
+Scan129@897.78_3	897.78	644471.0	3	2647.361	1	1	1	G11994	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2118.78	2118.78	45.0	24.24	27.22	15.21	
+Scan129@897.78_3	897.78	644471.0	3	2647.361	2	1	4	G11977	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2118.78(Asn)	2118.78	42.5	25.76	26.11	13.35	
+Scan129@897.78_3	897.78	644471.0	3	2647.361	3	2	2	G04066	(S)1 (NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2198.73	2118.78	45.0	24.24	27.22	15.12	
+Scan129@897.78_3	897.78	644471.0	3	2647.361	3	2	2	G02692	(S)1 (NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2198.73	2118.78	45.0	24.24	27.22	15.12	
+
+Scan131@1192.6_3	1192.6	580059.0	3	3531.82	1	1	1	G11332	(NeuAc)1 (Gal)5 (GlcNAc)6 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2824.01	2824.01	16.07	6.67	11.26	9.66	
+
+Scan133@879.44_3	879.44	504588.0	3	2592.34	1	1	1	G04043	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3 (Asn)1	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77(Asn)	2078.77	40.91	20.14	26.36	14.58	
+Scan133@879.44_3	879.44	504588.0	3	2592.34	1	1	1	G02721	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77	2078.77	40.91	20.14	26.36	14.58	
+Scan133@879.44_3	879.44	504588.0	3	2592.34	2	1	2	G04211	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3	Fuc(a1-2)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77	2078.77	40.91	18.75	26.36	14.44	
+Scan133@879.44_3	879.44	504588.0	3	2592.34	3	2	3	G11985	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77	2078.77	40.91	18.75	23.18	15.7	
+Scan133@879.44_3	879.44	504588.0	3	2592.34	3	2	3	G04130	(Gal)2 (Fuc)3 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2078.77(Asn)	2078.77	40.91	18.75	23.18	15.7	
+
+Scan135@1111.55_3	1111.55	350773.0	3	3288.671	1	1	1	G11329	(NeuAc)1 (Gal)5 (GlcNAc)5 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2620.93	2620.93	59.62	37.5	54.17	49.9	
+
+Scan137@1121.05_4	1121.05	486814.0	4	4415.231	0	0	0	No Results Found 									
+
+Scan139@1202.6_3	1202.6	372492.0	3	3561.82	0	0	0	No Results Found 									
+
+Scan141@923.96_2	923.96	476486.0	2	1824.93	1	1	1	G05664	(GlcNAc)3 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-6)[GlcNAc(b1-3)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc	1437.52	1437.52	53.57	15.62	28.57	15.3	
+Scan141@923.96_2	923.96	476486.0	2	1824.93	2	1	2	G02908	(Glc)3 (Gal)2 (GlcNAc)3	Gal(b1-4)GlcNAc(b1-2)Glc(a1-3)[Gal(b1-4)GlcNAc(b1-2)Glc(a1-6)]Glc(b1-4)GlcNAc	1437.52	1437.52	46.43	17.71	30.95	11.72	
+Scan141@923.96_2	923.96	476486.0	2	1824.93	2	1	2	G00314	(Gal)2 (GlcNAc)3 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	1437.52	1437.52	46.43	17.71	30.95	11.72	
+Scan141@923.96_2	923.96	476486.0	2	1824.93	3	1	3	G05284	(Gal)2 (GlcNAc)3 (Man)3	Gal(b1-4)GlcNAc(b1-4)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	1437.52	1437.52	46.43	17.71	30.95	11.56	
+
+Scan143@1033.85_3	1033.85	496520.0	3	3055.57	1	1	1	G03847	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2442.88	2442.88	39.58	17.31	27.65	17.87	
+Scan143@1033.85_3	1033.85	496520.0	3	3055.57	2	1	2	G03897	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2442.88	2442.88	39.58	17.31	27.65	17.64	
+Scan143@1033.85_3	1033.85	496520.0	3	3055.57	3	1	3	G03896	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2442.88	2442.88	39.58	16.03	27.65	17.58	
+
+Scan145@892.445_3	892.445	36946.8	3	2631.354	0	0	0	No Results Found 									
+
+Scan148@1169.59_3	1169.59	476231.0	3	3462.79	0	0	0	No Results Found 									
+
+Scan150@999.83_3	999.83	474009.0	3	2953.511	1	1	1	G11937	(NeuAc)1 (Gal)2 (Fuc)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2369.87	2369.87	27.08	16.67	14.02	13.91	
+Scan150@999.83_3	999.83	474009.0	3	2953.511	2	2	2	G03784	(NeuAc)2 (Gal)4 (GlcNAc)3 (Man)3	Gal(b1-4)[NeuAc(a2-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[NeuAc(a2-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2343.82	2343.82	25.0	8.33	11.36	16.05	
+
+Scan152@932.46_3	932.46	325398.0	3	2751.401	1	1	1	G01410	(Gal)2 (Xyl)1 (Fuc)3 (GlcNAc)4 (Man)3	Fuc(a1-6)[Gal(b1-4)]GlcNAc(b1-2)Man(a1-3)[Fuc(a1-6)[Gal(b1-4)]GlcNAc(b1-2)Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	2210.81	2210.81	20.83	13.16	26.52	26.72	
+
+Scan154@922.46_3	922.46	417861.0	3	2721.401	1	1	1	G04200	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78	2167.78	20.45	16.67	33.64	13.51	
+Scan154@922.46_3	922.46	417861.0	3	2721.401	2	1	2	G04220	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(a1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78	2167.78	20.45	15.97	33.64	13.23	
+Scan154@922.46_3	922.46	417861.0	3	2721.401	2	1	2	G04047	(Glc)1 (Gal)3 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Glc(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78(Asn)	2167.78	20.45	15.97	33.64	13.23	
+Scan154@922.46_3	922.46	417861.0	3	2721.401	2	1	2	G00513	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78	2167.78	20.45	15.97	33.64	13.23	
+Scan154@922.46_3	922.46	417861.0	3	2721.401	3	1	4	G04180	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc	2167.78	2167.78	18.18	14.58	27.73	15.08	
+
+Scan156@835.084_3	835.084	393250.0	3	2459.272	1	1	5	G02191	(NeuGc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1947.69	1947.69	33.33	33.33	22.22	21.12	
+Scan156@835.084_3	835.084	393250.0	3	2459.272	1	1	5	G10788	(NeuGc)1 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1947.69(Asn)	1947.69	33.33	33.33	22.22	21.12	
+Scan156@835.084_3	835.084	393250.0	3	2459.272	2	2	2	G12008	(Gal)1 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1973.74	1973.74	55.0	34.09	27.78	27.29	
+Scan156@835.084_3	835.084	393250.0	3	2459.272	2	2	2	G04307	(Gal)1 (Fuc)2 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1973.74(Asn)	1973.74	55.0	34.09	27.78	27.29	
+Scan156@835.084_3	835.084	393250.0	3	2459.272	3	2	4	G04351	(Gal)1 (Fuc)2 (GlcNAc)4 (GalNAc)1 (Man)3	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1973.74	1973.74	57.5	32.58	22.78	26.64	
+
+Scan158@1246.29_3	1246.29	434061.0	3	3692.891	0	0	0	No Results Found 									
+
+Scan160@1014.5_3	1014.5	317652.0	3	2997.52	1	1	5	G10960	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84(Asn)	2384.84	40.91	26.39	20.0	13.14	
+Scan160@1014.5_3	1014.5	317652.0	3	2997.52	1	1	5	G02181	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84	2384.84	40.91	26.39	20.0	13.14	
+Scan160@1014.5_3	1014.5	317652.0	3	2997.52	2	1	6	G10961	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84(Asn)	2384.84	40.91	27.08	20.0	13.07	
+Scan160@1014.5_3	1014.5	317652.0	3	2997.52	2	1	6	G02180	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84	2384.84	40.91	27.08	20.0	13.07	
+Scan160@1014.5_3	1014.5	317652.0	3	2997.52	3	2	1	G02662	(NeuAc)2 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2384.84	2384.84	38.64	32.64	25.91	15.63	
+
+Scan162@1101.54_3	1101.54	310887.0	3	3258.641	0	0	0	No Results Found 									
+
+Scan164@842.424_2	842.424	456927.0	2	1661.859	1	1	1	G00591	(GlcNAc)4 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc	1316.49	1316.49	66.67	15.48	31.67	5.41	
+Scan164@842.424_2	842.424	456927.0	2	1661.859	2	2	2	G01934	(GlcNAc)4 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc	1316.49	1316.49	58.33	14.29	30.0	4.09	
+Scan164@842.424_2	842.424	456927.0	2	1661.859	3	2	3	G05981	(GlcNAc)4 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-4)Man(a1-3)]Man(b1-4)GlcNAc	1316.49	1316.49	58.33	14.29	30.0	4.05	
+
+Scan166@1092.21_3	1092.21	405323.0	3	3230.65	0	0	0	No Results Found 									
+
+Scan169@975.82_3	975.82	393171.0	3	2881.48	1	1	4	G02679	(NeuAc)1 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2296.83	2296.83	34.09	19.44	26.36	16.07	
+Scan169@975.82_3	975.82	393171.0	3	2881.48	2	1	5	G01802	(NeuAc)1 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2296.83	2296.83	34.09	18.75	26.36	16.05	
+Scan169@975.82_3	975.82	393171.0	3	2881.48	3	1	6	G01321	(NeuAc)1 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2296.83	2296.83	34.09	15.28	26.36	16.26	
+Scan169@975.82_3	975.82	393171.0	3	2881.48	3	1	6	G10745	(NeuAc)1 (Gal)3 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2296.83(Asn)	2296.83	34.09	15.28	26.36	16.26	
+
+Scan171@815.736_3	815.736	410625.0	3	2401.228	1	1	1	G12021	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7(Asn)	1915.7	36.11	20.83	19.44	12.03	
+Scan171@815.736_3	815.736	410625.0	3	2401.228	2	1	2	G00974	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7(Asn)	1915.7	36.11	20.0	19.44	11.92	
+Scan171@815.736_3	815.736	410625.0	3	2401.228	2	1	2	G01645	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7	1915.7	36.11	20.0	19.44	11.92	
+Scan171@815.736_3	815.736	410625.0	3	2401.228	3	1	3	G12029	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1915.7	1915.7	36.11	17.5	19.44	12.13	
+
+Scan173@734.026_3	734.026	491243.0	3	2156.099	1	1	1	G12076	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1712.62	1712.62	25.0	10.19	6.25	7.58	
+Scan173@734.026_3	734.026	491243.0	3	2156.099	2	1	2	G04280	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1712.62(Asn)	1712.62	25.0	12.04	6.25	6.78	
+Scan173@734.026_3	734.026	491243.0	3	2156.099	3	1	3	G04414	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1712.62	1712.62	25.0	8.33	6.25	6.91	
+
+Scan175@1173.59_3	1173.59	245842.0	3	3474.79	0	0	0	No Results Found 									
+
+Scan177@781.387_1	781.387	422362.0	1	781.387	0	0	0	No Results Found 									
+
+Scan179@1183.59_3	1183.59	336106.0	3	3504.79	1	1	3	G05087	(NeuAc)1 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2808.02(Asn)	2808.02	62.5	42.78	46.98	50.13	
+Scan179@1183.59_3	1183.59	336106.0	3	3504.79	2	2	4	G04101	(NeuAc)1 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2808.02(Asn)	2808.02	53.57	46.67	46.7	52.64	
+Scan179@1183.59_3	1183.59	336106.0	3	3504.79	3	2	5	G04112	(NeuAc)1 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2808.02(Asn)	2808.02	53.57	46.11	46.7	52.33	
+
+Scan181@1269.625_3	1269.625	225651.0	3	3762.895	0	0	0	No Results Found 									
+
+Scan183@767.372_1	767.372	370936.0	1	767.372	0	0	0	No Results Found 									
+
+Scan185@1235.62_2	1235.62	276248.0	2	2448.25	1	1	1	G02742	(Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1948.71	1948.71	37.5	29.55	32.22	16.41	
+Scan185@1235.62_2	1235.62	276248.0	2	2448.25	1	1	1	G04321	(Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1948.71	1948.71	37.5	29.55	32.22	16.41	
+Scan185@1235.62_2	1235.62	276248.0	2	2448.25	1	1	1	G00789	(Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1948.71	1948.71	37.5	29.55	32.22	16.41	
+Scan185@1235.62_2	1235.62	276248.0	2	2448.25	2	1	2	G04294	(Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1948.71	1948.71	37.5	28.79	32.22	16.49	
+
+Scan187@1394.19_2	1394.19	350235.0	2	2765.39	1	1	1	G04201	(Gal)3 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2208.81	2208.81	15.91	5.56	9.55	8.45	
+Scan187@1394.19_2	1394.19	350235.0	2	2765.39	2	1	2	G04215	(Gal)3 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2208.81	2208.81	15.91	3.47	9.55	8.45	
+Scan187@1394.19_2	1394.19	350235.0	2	2765.39	3	2	3	G04276	(Gal)3 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2208.81	2208.81	15.91	2.78	9.55	8.0	
+
+Scan190@996_2	996	455276.0	2	1969.01	1	1	1	G05146	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58	1567.58	56.25	20.37	24.11	16.27	
+Scan190@996_2	996	455276.0	2	1969.01	2	1	2	G01659	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58	1567.58	56.25	17.59	24.11	16.14	
+Scan190@996_2	996	455276.0	2	1969.01	2	1	2	G10940	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58(Asn)	1567.58	56.25	17.59	24.11	16.14	
+Scan190@996_2	996	455276.0	2	1969.01	3	1	3	G04711	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3 (Asn)1	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58(Asn)	1567.58	50.0	21.3	25.89	14.97	
+
+Scan192@1144.59_1	1144.59	241326.0	1	1144.59	0	0	0	No Results Found 									
+
+Scan194@1350.18_2	1350.18	230289.0	2	2677.37	1	1	2	G02188	(NeuAc)1 (Gal)2 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2134.77	2134.77	30.0	26.52	21.67	12.8	
+Scan194@1350.18_2	1350.18	230289.0	2	2677.37	1	1	2	G10849	(NeuAc)1 (Gal)2 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2134.77(Asn)	2134.77	30.0	26.52	21.67	12.8	
+Scan194@1350.18_2	1350.18	230289.0	2	2677.37	2	2	1	G11948	(NeuAc)1 (Gal)2 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2134.77(Asn)	2134.77	35.0	25.76	25.0	14.27	
+
+Scan196@777.053_3	777.053	230132.0	3	2285.18	1	1	2	G04484	(Gal)1 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-3)GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1827.68	1827.68	41.67	15.83	20.83	26.24	
+Scan196@777.053_3	777.053	230132.0	3	2285.18	2	1	3	G04519	(Gal)1 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-3)GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1827.68	1827.68	41.67	12.5	20.83	26.14	
+Scan196@777.053_3	777.053	230132.0	3	2285.18	3	1	6	G02214	(Gal)1 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1827.68	1827.68	41.67	14.17	20.83	25.21	
+
+Scan198@1164.58_4	1164.58	223241.0	4	4589.351	0	0	0	No Results Found 									
+
+Scan200@1386.7_2	1386.7	143733.0	2	2750.41	1	1	1	G01410	(Gal)2 (Xyl)1 (Fuc)3 (GlcNAc)4 (Man)3	Fuc(a1-6)[Gal(b1-4)]GlcNAc(b1-2)Man(a1-3)[Fuc(a1-6)[Gal(b1-4)]GlcNAc(b1-2)Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	2210.81	2210.81	20.83	20.39	19.32	19.55	
+
+Scan202@1259.612_3	1259.612	39012.5	3	3732.857	0	0	0	No Results Found 									
+
+Scan204@1299.65_3	1299.65	174343.0	3	3852.971	1	1	1	G04142	(NeuAc)2 (Gal)2 (GlcNAc)5 (Man)7 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3074.08(Asn)	3074.08	41.67	25.0	45.24	36.29	
+
+Scan206@1026.52_2	1026.52	184472.0	2	2030.05	1	1	1	G00659	(Gal)1 (GlcNAc)3 (Man)5	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1599.57	1599.57	40.62	23.15	19.64	9.44	
+Scan206@1026.52_2	1026.52	184472.0	2	2030.05	1	1	1	G10881	(Gal)1 (GlcNAc)3 (Man)5 (Asn)1	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1599.57(Asn)	1599.57	40.62	23.15	19.64	9.44	
+Scan206@1026.52_2	1026.52	184472.0	2	2030.05	2	1	2	G05175	(GlcNAc)3 (Man)6	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1599.57	1599.57	31.25	24.07	12.5	8.51	
+
+Scan208@985.16_3	985.16	202629.0	3	2909.5	1	1	1	G04084	(Gal)2 (Fuc)2 (GlcNAc)5 (GalNAc)1 (Man)3	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2338.87	2338.87	45.83	23.72	30.68	17.46	
+
+Scan211@1348.69_2	1348.69	173837.0	2	2674.39	1	1	1	G02739	(Fuc)3 (GlcNAc)4 (GalNAc)2 (Man)3	Fuc(a1-3)[GalNAc(b1-4)]GlcNAc(b1-2)Man(a1-3)[Fuc(a1-3)[GalNAc(b1-4)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2160.83	2160.83	27.27	0.69	15.91	6.82	
+Scan211@1348.69_2	1348.69	173837.0	2	2674.39	1	1	1	G11009	(Fuc)3 (GlcNAc)4 (GalNAc)2 (Man)3 (Asn)1	GalNAc(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[GalNAc(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2160.83(Asn)	2160.83	27.27	0.69	15.91	6.82	
+Scan211@1348.69_2	1348.69	173837.0	2	2674.39	2	1	2	G11948	(NeuAc)1 (Gal)2 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2134.77(Asn)	2134.77	7.5	6.06	7.22	5.84	
+Scan211@1348.69_2	1348.69	173837.0	2	2674.39	3	1	3	G02188	(NeuAc)1 (Gal)2 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2134.77	2134.77	10.0	6.82	6.11	5.62	
+Scan211@1348.69_2	1348.69	173837.0	2	2674.39	3	1	3	G10849	(NeuAc)1 (Gal)2 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2134.77(Asn)	2134.77	10.0	6.82	6.11	5.62	
+
+Scan213@763.382_3	763.382	145987.0	3	2244.166	1	1	1	G02802	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	36.11	16.67	33.33	19.48	
+Scan213@763.382_3	763.382	145987.0	3	2244.166	2	1	2	G04826	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-6)]Man(1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	36.11	16.67	33.33	19.17	
+Scan213@763.382_3	763.382	145987.0	3	2244.166	2	1	2	G04368	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	36.11	16.67	33.33	19.17	
+Scan213@763.382_3	763.382	145987.0	3	2244.166	2	1	2	G01818	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66(Asn)	1786.66	36.11	16.67	33.33	19.17	
+Scan213@763.382_3	763.382	145987.0	3	2244.166	3	2	6	G04730	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-6)[GlcNAc(b1-2)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	22.22	13.33	29.86	20.94	
+
+Scan215@845.088_3	845.088	163471.0	3	2489.284	1	1	5	G02202	(Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1989.74	1989.74	55.0	31.06	31.11	26.87	
+Scan215@845.088_3	845.088	163471.0	3	2489.284	2	2	1	G04570	(Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-6)GlcNAc(b1-4)GlcNAc(b1-4)][Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	1989.74	1989.74	55.0	30.3	35.56	26.26	
+Scan215@845.088_3	845.088	163471.0	3	2489.284	3	2	2	G10779	(Gal)2 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1989.74(Asn)	1989.74	55.0	30.3	35.56	25.51	
+Scan215@845.088_3	845.088	163471.0	3	2489.284	3	2	2	G00310	(Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1989.74	1989.74	55.0	30.3	35.56	25.51	
+
+Scan217@1378.7_2	1378.7	119078.0	2	2734.411	1	1	1	G02192	(Gal)2 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2192.81	2192.81	29.55	9.72	21.82	9.1	
+Scan217@1378.7_2	1378.7	119078.0	2	2734.411	2	1	2	G02729	(Gal)2 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2192.81	2192.81	29.55	10.42	21.82	8.82	
+Scan217@1378.7_2	1378.7	119078.0	2	2734.411	3	1	3	G04269	(Gal)2 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2192.81	2192.81	31.82	11.11	20.45	9.99	
+
+Scan219@1295.65_3	1295.65	170128.0	3	3840.971	0	0	0	No Results Found 									
+
+Scan221@974.46_3	974.46	167272.0	3	2877.401	0	0	0	No Results Found 									
+
+Scan223@864.422_3	864.422	153874.0	3	2547.287	1	1	1	G04138	(NeuAc)2 (Glc)2 (Gal)2 (GlcNAc)3 (Man)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Glc(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Glc(a1-6)]Man(b1-4)GlcNAc	2019.71	2019.71	30.56	19.17	30.56	15.21	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	1	1	1	G00538	(NeuAc)2 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2019.71	2019.71	30.56	19.17	30.56	15.21	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	1	1	1	G04069	(NeuAc)2 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(b1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(b1-6)]Man(a1-4)GlcNAc	2019.71	2019.71	30.56	19.17	30.56	15.21	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	2	1	2	G04068	(NeuAc)2 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(b1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(b1-6)]Man(a1-4)GlcNAc	2019.71	2019.71	30.56	20.0	30.56	14.47	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	2	1	2	G04137	(NeuAc)2 (Glc)2 (Gal)2 (GlcNAc)3 (Man)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Glc(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Glc(a1-6)]Man(b1-4)GlcNAc	2019.71	2019.71	30.56	20.0	30.56	14.47	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	2	1	2	G00878	(NeuAc)2 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2019.71	2019.71	30.56	20.0	30.56	14.47	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	2	1	2	G01807	(NeuAc)2 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2019.71	2019.71	30.56	20.0	30.56	14.47	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	3	1	3	G00413	(NeuAc)2 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2019.71	2019.71	30.56	20.83	30.56	13.72	
+Scan223@864.422_3	864.422	153874.0	3	2547.287	3	1	3	G04067	(NeuAc)2 (Gal)2 (GlcNAc)3 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(b1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(b1-6)]Man(a1-4)GlcNAc	2019.71	2019.71	30.56	20.83	30.56	13.72	
+
+Scan225@1176.58_2	1176.58	147318.0	2	2330.17	0	0	0	No Results Found 									
+
+Scan227@1357.68_3	1357.68	152723.0	3	4027.061	1	1	3	G04202	(NeuAc)1 (Gal)4 (Fuc)4 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3246.19	3246.19	51.47	37.04	35.29	40.24	
+Scan227@1357.68_3	1357.68	152723.0	3	4027.061	2	2	1	G04198	(NeuAc)1 (Gal)4 (Fuc)4 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)[Fuc(a1-3)[Gal(b1-4)]GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3246.19	3246.19	60.29	33.8	40.26	40.41	
+Scan227@1357.68_3	1357.68	152723.0	3	4027.061	3	2	2	G04191	(NeuAc)1 (Gal)4 (Fuc)4 (GlcNAc)6 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-6)Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3246.19	3246.19	52.94	37.96	37.13	40.52	
+
+Scan229@907.45_2	907.45	130602.0	2	1791.91	0	0	0	No Results Found 									
+
+Scan232@1074.53_4	1074.53	205182.0	4	4229.151	0	0	0	No Results Found 									
+
+Scan234@1323.67_2	1323.67	172361.0	2	2624.35	0	0	0	No Results Found 									
+
+Scan236@814.4_3	814.4	191209.0	3	2397.221	1	1	16	G04686	(Glc)3 (GlcNAc)2 (Man)6	Glc(a1-2)Glc(a1-3)Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	7.5	8.33	7.78	4.6	
+Scan236@814.4_3	814.4	191209.0	3	2397.221	2	2	8	G01829	(Glc)1 (GlcNAc)2 (Man)8	Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	10.0	11.36	10.0	6.36	
+Scan236@814.4_3	814.4	191209.0	3	2397.221	3	2	9	G01831	(Glc)1 (GlcNAc)2 (Man)8	Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	10.0	11.36	10.0	6.27	
+Scan236@814.4_3	814.4	191209.0	3	2397.221	3	2	9	G04272	(GlcNAc)2 (Man)9	Man(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	10.0	11.36	10.0	6.27	
+Scan236@814.4_3	814.4	191209.0	3	2397.221	3	2	9	G04634	(Glc)1 (GlcNAc)2 (Man)8	Glc(1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1882.65	1882.65	10.0	11.36	10.0	6.27	
+
+Scan238@998.49_3	998.49	126508.0	3	2949.49	1	1	1	G11914	(Gal)1 (Fuc)2 (GlcNAc)7 (Man)3	Fuc(a1-2)Gal(b1-3)GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2379.9	2379.9	58.33	44.87	65.91	63.53	
+
+Scan240@1038.51_3	1038.51	111436.0	3	3069.55	1	1	1	G03867	(Gal)2 (Xyl)1 (Fuc)2 (GlcNAc)4 (GalNAc)2 (Man)3	Fuc(a1-2)Gal(b1-3)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-3)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2470.92	2470.92	34.62	32.32	25.64	29.18	
+
+Scan242@1017.51_3	1017.51	102517.0	3	3006.55	1	1	1	G03817	(NeuAc)2 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2409.87	2409.87	56.82	29.17	39.09	29.71	
+Scan242@1017.51_3	1017.51	102517.0	3	3006.55	2	1	2	G11445	(NeuAc)2 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2409.87(Asn)	2409.87	56.82	31.25	39.09	28.79	
+Scan242@1017.51_3	1017.51	102517.0	3	3006.55	3	1	3	G03749	(NeuAc)2 (Gal)1 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2409.87	2409.87	54.55	34.72	38.64	32.51	
+
+Scan244@1042.852_3	1042.852	91483.7	3	3082.576	1	1	1	G03792	(NeuAc)1 (Gal)4 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2458.88	2458.88	39.58	29.49	29.92	28.06	
+
+Scan246@1095.877_3	1095.877	375583.0	3	3241.651	1	1	1	G01794	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	45.83	41.67	40.53	40.58	
+Scan246@1095.877_3	1095.877	375583.0	3	3241.651	2	1	2	G03766	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	45.83	42.31	40.53	40.36	
+Scan246@1095.877_3	1095.877	375583.0	3	3241.651	3	1	3	G03701	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	45.83	42.31	40.53	40.28	
+
+Scan248@1115.56_3	1115.56	121088.0	3	3300.701	0	0	0	No Results Found 									
+
+Scan250@1289.64_3	1289.64	116514.0	3	3822.941	1	1	1	G11856	(GlcNAc)2 (Man)16	Man(a1-2)Man(a1-2)Man(a1-2)Man(a1-2)Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-2)Man(a1-3)]Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-2)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3017.02	3017.02	20.59	23.61	28.12	14.37	
+
+Scan253@1293.65_3	1293.65	155355.0	3	3834.971	1	1	1	G05736	(Gal)5 (Fuc)1 (GlcNAc)8 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)][Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3085.13(Asn)	3085.13	32.81	25.98	41.88	39.36	
+
+Scan255@1198.6_3	1198.6	113950.0	3	3549.82	1	1	1	G03670	(Gal)6 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2841.03	2841.03	51.67	42.71	51.43	51.71	
+
+Scan257@915.45_4	915.45	122983.0	4	3592.831	1	1	1	G02657	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	38.33	39.06	31.67	33.78	
+Scan257@915.45_4	915.45	122983.0	4	3592.831	2	1	2	G03676	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	38.33	36.98	31.67	33.59	
+Scan257@915.45_4	915.45	122983.0	4	3592.831	3	1	3	G03682	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	38.33	38.02	31.67	33.49	
+
+Scan259@1234.12_2	1234.12	105126.0	2	2445.25	0	0	0	No Results Found 									
+
+Scan261@949.46_3	949.46	112569.0	3	2802.401	1	1	1	G02701	(GlcNAc)2 (Man)11	Man(a1-2)Man(a1-2)Man(a1-6)[Man(a1-2)Man(a1-3)]Man(a1-6)[Man(a1-2)Man(a1-2)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2206.76	2206.76	18.75	8.97	19.7	17.99	
+Scan261@949.46_3	949.46	112569.0	3	2802.401	2	1	2	G04196	(Gal)2 (GlcNAc)2 (Man)9	Gal(1-)Man(a1-2)Man(a1-6)[Man(a1-2)Man(a1-3)]Man(a1-6)[Gal(1-)Man(a1-2)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2206.76	2206.76	18.75	6.94	19.7	18.2	
+Scan261@949.46_3	949.46	112569.0	3	2802.401	3	2	4	G03940	(GlcNAc)2 (Man)11 (Asn)1	Man(a1-3)Man(a1-2)Man(a1-2)[Man(a1-2)Man(a1-6)]Man(a1-3)[Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2206.76(Asn)	2206.76	16.67	12.18	15.53	17.95	
+
+Scan263@726.379_1	726.379	153293.0	1	726.379	0	0	0	No Results Found 									
+
+Scan265@889.44_3	889.44	87662.6	3	2622.34	1	1	1	G02711	(Gal)3 (Fuc)2 (GlcNAc)4 (Man)3	Gal(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2094.77	2094.77	56.82	41.67	58.18	51.29	
+Scan265@889.44_3	889.44	87662.6	3	2622.34	2	1	2	G11981	(Gal)3 (Fuc)2 (GlcNAc)4 (Man)3	Gal(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2094.77	2094.77	56.82	38.89	58.18	51.43	
+Scan265@889.44_3	889.44	87662.6	3	2622.34	3	1	3	G04195	(Gal)1 (Fuc)2 (GlcNAc)3 (GalNAc)1 (Man)5	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-2)Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2094.77	2094.77	47.73	36.11	57.27	52.29	
+
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	1	1	11	G11905	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92	2516.92	59.62	47.02	50.32	46.67	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	2	2	1	G03803	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92	2516.92	61.54	46.43	58.33	54.03	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	2	2	1	G03887	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92	2516.92	61.54	46.43	58.33	54.03	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	3	2	2	G00368	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92	2516.92	61.54	47.02	58.33	53.73	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	3	2	2	G03931	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(a1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92	2516.92	61.54	47.02	58.33	53.73	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	3	2	2	G11024	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92(Asn)	2516.92	61.54	47.02	58.33	53.73	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	3	2	2	G03791	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92(Asn)	2516.92	61.54	47.02	58.33	53.73	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	3	2	2	G11899	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92	2516.92	61.54	47.02	58.33	53.73	
+Scan267@1062.53_3	1062.53	106204.0	3	3141.611	3	2	2	G10262	(Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2516.92	2516.92	61.54	47.02	58.33	53.73	
+
+Scan269@1363.69_2	1363.69	81699.5	2	2704.39	1	1	1	G04255	(Gal)1 (Fuc)2 (GlcNAc)5 (GalNAc)1 (Man)3	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2176.82	2176.82	31.82	15.97	25.0	16.83	
+Scan269@1363.69_2	1363.69	81699.5	2	2704.39	2	1	2	G11978	(Gal)1 (Fuc)2 (GlcNAc)6 (Man)3	Fuc(a1-2)Gal(b1-3)GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2176.82	2176.82	34.09	15.28	24.09	16.32	
+
+Scan271@1128.57_2	1128.57	86737.1	2	2234.15	1	1	2	G04679	(Gal)2 (GlcNAc)3 (Man)5	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc	1761.62	1761.62	19.44	11.67	29.17	8.95	
+Scan271@1128.57_2	1128.57	86737.1	2	2234.15	2	2	1	G04554	(Gal)4 (GlcNAc)3 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	1761.62	1761.62	33.33	13.33	28.47	7.13	
+
+Scan274@1277.65_3	1277.65	96594.6	3	3786.971	0	0	0	No Results Found 									
+
+Scan276@1264.623_3	1264.623	58101.2	3	3747.89	0	0	0	No Results Found 									
+
+Scan278@1148.58_3	1148.58	105575.0	3	3399.76	0	0	0	No Results Found 									
+
+Scan280@746.03_3	746.03	107373.0	3	2192.109	1	1	13	G05056	(Glc)4 (GlcNAc)2 (Man)4	Glc(a1-2)Glc(a1-3)Glc(a1-3)Glc(a1-2)Man(a1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6	1720.6	5.56	8.33	5.56	2.6	
+Scan280@746.03_3	746.03	107373.0	3	2192.109	1	1	13	G10814	(Glc)3 (GlcNAc)2 (Man)5 (Asn)1	Glc(a1-2)Glc(a1-3)Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6(Asn)	1720.6	5.56	8.33	5.56	2.6	
+Scan280@746.03_3	746.03	107373.0	3	2192.109	1	1	13	G05600	(Glc)3 (GlcNAc)2 (Man)5	Glc(1-2)Glc(1-3)Glc(1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6	1720.6	5.56	8.33	5.56	2.6	
+Scan280@746.03_3	746.03	107373.0	3	2192.109	1	1	13	G11999	(Glc)3 (GlcNAc)2 (Man)5 (PP-Dol)1	Glc(a1-2)Glc(a1-3)Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6(PP-Dol)	1720.6	5.56	8.33	5.56	2.6	
+Scan280@746.03_3	746.03	107373.0	3	2192.109	1	1	13	G00605	(Glc)3 (GlcNAc)2 (Man)5	Glc(a1-2)Glc(a1-3)Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6	1720.6	5.56	8.33	5.56	2.6	
+Scan280@746.03_3	746.03	107373.0	3	2192.109	2	2	7	G04797	(Glc)1 (GlcNAc)2 (Man)7	Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6	1720.6	8.33	10.0	6.25	2.92	
+Scan280@746.03_3	746.03	107373.0	3	2192.109	3	2	9	G01847	(Glc)1 (GlcNAc)2 (Man)7	Glc(a1-3)Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1720.6	1720.6	8.33	8.33	6.25	2.92	
+
+Scan282@715.345_4	715.345	101465.0	4	2792.41	1	1	1	G03918	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-)Man(a1-3)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	5.0	10.42	1.11	4.47	
+Scan282@715.345_4	715.345	101465.0	4	2792.41	2	1	2	G01085	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79	2222.79	5.0	8.33	1.11	4.41	
+Scan282@715.345_4	715.345	101465.0	4	2792.41	2	1	2	G11963	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79(Asn)	2222.79	5.0	8.33	1.11	4.41	
+Scan282@715.345_4	715.345	101465.0	4	2792.41	3	1	3	G03802	(NeuAc)2 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-3)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2222.79(Asn)	2222.79	5.0	9.26	1.11	4.29	
+
+Scan284@1303.651_3	1303.651	88981.7	3	3864.974	1	1	4	G05391	(Gal)6 (GlcNAc)8 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3101.13	3101.13	25.0	32.35	24.17	18.51	
+Scan284@1303.651_3	1303.651	88981.7	3	3864.974	2	2	1	G04652	(NeuAc)2 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3099.11	3099.11	36.67	28.12	25.48	19.18	
+Scan284@1303.651_3	1303.651	88981.7	3	3864.974	3	2	2	G04253	(NeuAc)2 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3099.11	3099.11	31.67	28.12	24.52	19.06	
+
+Scan286@709.019_3	709.019	129629.0	3	2081.079	1	1	1	G10687	(Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63(Asn)	1665.63	53.12	21.3	55.36	42.49	
+Scan286@709.019_3	709.019	129629.0	3	2081.079	1	1	1	G00452	(Fuc)1 (GlcNAc)5 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	53.12	21.3	55.36	42.49	
+Scan286@709.019_3	709.019	129629.0	3	2081.079	2	1	2	G10831	(Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63(Asn)	1665.63	50.0	23.15	54.46	45.31	
+Scan286@709.019_3	709.019	129629.0	3	2081.079	2	1	2	G00774	(Fuc)1 (GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	50.0	23.15	54.46	45.31	
+Scan286@709.019_3	709.019	129629.0	3	2081.079	3	1	3	G05088	(Fuc)1 (GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1665.63	1665.63	50.0	24.07	54.46	45.05	
+
+Scan288@721.518_1	721.518	132414.0	1	721.518	1	1	1	G00595	(GlcNAc)1 (Man)2	Man(a1-6)Man(b1-4)GlcNAc	545.2	545.2	62.5	50.0	0.0	30.0	
+Scan288@721.518_1	721.518	132414.0	1	721.518	2	1	2	G00319	(GlcNAc)1 (Man)2	Man(a1-3)Man(b1-4)GlcNAc	545.2	545.2	62.5	47.22	0.0	28.33	
+Scan288@721.518_1	721.518	132414.0	1	721.518	2	1	2	G00304	(Gal)2 (GlcNAc)1	Gal(a1-3)Gal(b1-4)GlcNAc	545.2	545.2	62.5	47.22	0.0	28.33	
+
+Scan290@1377.69_2	1377.69	70968.2	2	2732.39	1	1	1	G02715	(Gal)2 (Fuc)1 (GlcNAc)5 (GalNAc)1 (Man)3	Gal(b1-4)GlcNAc(b1-4)[GalNAc(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2192.81	2192.81	4.55	6.25	3.18	5.35	
+Scan290@1377.69_2	1377.69	70968.2	2	2732.39	2	2	2	G02719	(Gal)2 (Fuc)1 (GlcNAc)5 (GalNAc)1 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2192.81	2192.81	6.82	8.33	1.36	5.14	
+Scan290@1377.69_2	1377.69	70968.2	2	2732.39	3	2	3	G02729	(Gal)2 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2192.81	2192.81	4.55	8.33	1.36	5.88	
+
+Scan292@721.518_1	721.518	132414.0	1	721.518	1	1	1	G00595	(GlcNAc)1 (Man)2	Man(a1-6)Man(b1-4)GlcNAc	545.2	545.2	50.0	50.0	0.0	10.0	
+Scan292@721.518_1	721.518	132414.0	1	721.518	2	1	2	G00319	(GlcNAc)1 (Man)2	Man(a1-3)Man(b1-4)GlcNAc	545.2	545.2	50.0	41.67	0.0	13.33	
+Scan292@721.518_1	721.518	132414.0	1	721.518	2	1	2	G00304	(Gal)2 (GlcNAc)1	Gal(a1-3)Gal(b1-4)GlcNAc	545.2	545.2	50.0	41.67	0.0	13.33	
+
+Scan295@1037.16_3	1037.16	116697.0	3	3065.501	0	0	0	No Results Found 									
+
+Scan297@971.48_3	971.48	79430.1	3	2868.46	1	1	2	G04001	(Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2297.85	2297.85	66.67	44.23	53.41	48.55	
+Scan297@971.48_3	971.48	79430.1	3	2868.46	2	2	1	G02187	(Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2297.85	2297.85	64.58	41.67	56.06	46.27	
+Scan297@971.48_3	971.48	79430.1	3	2868.46	3	2	3	G04057	(Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2297.85	2297.85	70.83	44.87	50.76	46.07	
+
+Scan299@850.394_2	850.394	98334.6	2	1677.799	0	0	0	No Results Found 									
+
+Scan301@959.47_3	959.47	63353.3	3	2832.43	1	1	1	G03909	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82	2263.82	60.0	40.15	46.67	39.47	
+Scan301@959.47_3	959.47	63353.3	3	2832.43	2	1	2	G03908	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82	2263.82	60.0	41.67	46.67	38.77	
+Scan301@959.47_3	959.47	63353.3	3	2832.43	3	1	3	G11444	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82(Asn)	2263.82	60.0	40.91	46.67	37.98	
+Scan301@959.47_3	959.47	63353.3	3	2832.43	3	1	3	G03907	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82	2263.82	60.0	40.91	46.67	37.98	
+
+Scan303@1177.587_3	1177.587	58002.8	3	3486.781	1	1	1	G06089	(NeuAc)2 (Gal)3 (GlcNAc)5 (GalNAc)1 (Man)3	GalNAc(b1-4)[NeuAc(a2-3)]Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2791.0	2791.0	65.38	45.83	59.94	53.59	
+Scan303@1177.587_3	1177.587	58002.8	3	3486.781	2	1	2	G05601	(NeuAc)2 (Gal)3 (GlcNAc)6 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2791.0(Asn)	2791.0	63.46	46.53	59.29	53.02	
+
+Scan305@1157.56_2	1157.56	48451.3	2	2292.13	0	0	0	No Results Found 									
+
+Scan307@990.49_3	990.49	44049.9	3	2925.49	1	1	1	G11320	(Gal)5 (GlcNAc)5 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2329.84	2329.84	68.75	50.64	66.67	59.4	
+Scan307@990.49_3	990.49	44049.9	3	2925.49	2	1	2	G03943	(Gal)5 (GlcNAc)5 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2329.84	2329.84	66.67	50.64	66.67	57.88	
+
+Scan309@1399.69_2	1399.69	59159.2	2	2776.39	1	1	1	G04050	(Gal)1 (Fuc)1 (GlcNAc)7 (Man)3	GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2233.84	2233.84	25.0	22.92	23.18	13.87	
+Scan309@1399.69_2	1399.69	59159.2	2	2776.39	2	1	2	G04102	(Gal)1 (Fuc)1 (GlcNAc)7 (Man)3	GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2233.84	2233.84	25.0	24.31	23.18	13.52	
+Scan309@1399.69_2	1399.69	59159.2	2	2776.39	3	2	3	G02718	(Gal)1 (Fuc)1 (GlcNAc)5 (GalNAc)2 (Man)3	GalNAc(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2233.84	2233.84	15.91	25.0	20.0	13.24	
+
+Scan311@1403.7_2	1403.7	61761.2	2	2784.41	0	0	0	No Results Found 									
+
+Scan313@1318.661_3	1318.661	73652.9	3	3910.005	0	0	0	No Results Found 									
+
+Scan316@1361.68_3	1361.68	74818.7	3	4039.061	1	1	2	G11857	(Gal)6 (Fuc)1 (GlcNAc)8 (Man)3	Gal(b1-4)GlcNAc(b1-2)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-2)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3247.19	3247.19	11.76	11.11	24.63	17.24	
+Scan316@1361.68_3	1361.68	74818.7	3	4039.061	2	2	3	G04513	(Gal)6 (Fuc)1 (GlcNAc)8 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3247.19	3247.19	22.06	11.11	22.61	16.72	
+Scan316@1361.68_3	1361.68	74818.7	3	4039.061	3	3	1	G01337	(Gal)6 (Fuc)1 (GlcNAc)8 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3247.19	3247.19	14.71	12.04	25.55	17.59	
+
+Scan318@1372.69_2	1372.69	52791.6	2	2722.39	1	1	1	G04200	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78	2167.78	63.64	38.19	37.27	43.8	
+Scan318@1372.69_2	1372.69	52791.6	2	2722.39	2	1	2	G04220	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(a1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78	2167.78	63.64	38.89	37.27	43.66	
+Scan318@1372.69_2	1372.69	52791.6	2	2722.39	2	1	2	G04047	(Glc)1 (Gal)3 (GlcNAc)5 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Glc(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78(Asn)	2167.78	63.64	38.89	37.27	43.66	
+Scan318@1372.69_2	1372.69	52791.6	2	2722.39	2	1	2	G00513	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2167.78	2167.78	63.64	38.89	37.27	43.66	
+Scan318@1372.69_2	1372.69	52791.6	2	2722.39	3	1	3	G04178	(Gal)4 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc	2167.78	2167.78	59.09	39.58	38.18	37.39	
+
+Scan320@795.4_2	795.4	63898.2	2	1567.81	0	0	0	No Results Found 									
+
+Scan322@1223.61_3	1223.61	41827.4	3	3624.85	1	1	1	G04950	(Gal)5 (Fuc)4 (GlcNAc)5 (Man)3 (Asn)1	Gal(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-4)[Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2914.07(Asn)	2914.07	45.31	52.45	62.71	56.73	
+
+Scan324@1337.67_2	1337.67	46464.0	2	2652.35	1	1	1	G11959	(Gal)4 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2110.76	2110.76	22.73	29.17	14.55	15.57	
+Scan324@1337.67_2	1337.67	46464.0	2	2652.35	1	1	1	G01089	(Gal)4 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2110.76	2110.76	22.73	29.17	14.55	15.57	
+Scan324@1337.67_2	1337.67	46464.0	2	2652.35	1	1	1	G02698	(Gal)4 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2110.76	2110.76	22.73	29.17	14.55	15.57	
+
+Scan326@1392.69_2	1392.69	39383.6	2	2762.39	1	1	4	G01415	(Gal)3 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2208.81	2208.81	31.82	41.67	18.64	30.81	
+Scan326@1392.69_2	1392.69	39383.6	2	2762.39	2	1	5	G04276	(Gal)3 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2208.81	2208.81	31.82	41.67	18.64	30.1	
+Scan326@1392.69_2	1392.69	39383.6	2	2762.39	3	2	1	G04201	(Gal)3 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2208.81	2208.81	34.09	40.97	19.55	29.76	
+
+Scan328@1053.036_2	1053.036	650590.0	2	2083.083	0	0	0	No Results Found 									
+
+Scan330@1080.52_3	1080.52	54026.5	3	3195.581	0	0	0	No Results Found 									
+
+Scan332@1053.036_2	1053.036	650590.0	2	2083.083	0	0	0	No Results Found 									
+
+Scan334@1352.68_3	1352.68	47894.5	3	4012.061	0	0	0	No Results Found 									
+
+Scan337@1186.59_2	1186.59	81265.4	2	2350.19	0	0	0	No Results Found 									
+
+Scan339@1060.53_3	1060.53	42326.4	3	3135.611	0	0	0	No Results Found 									
+
+Scan341@1188.59_2	1188.59	34171.1	2	2354.19	1	1	1	G04895	(GlcNAc)6 (Man)4	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[Man(a1-6)[GlcNAc(b1-2)]Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1884.7	1884.7	44.44	39.17	70.83	50.94	
+Scan341@1188.59_2	1188.59	34171.1	2	2354.19	2	1	2	G00790	(GlcNAc)1 (Man)10	Man(a1-2)Man(a1-2)[Man(a1-2)Man(a1-6)]Man(a1-3)[Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc	1841.62	1841.62	50.0	47.73	65.0	53.04	
+Scan341@1188.59_2	1188.59	34171.1	2	2354.19	3	1	3	G02776	(GlcNAc)1 (Man)10	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)[Man(a1-2)Man(a1-2)[Man(a1-6)]Man(a1-3)]Man(b1-4)GlcNAc	1841.62	1841.62	50.0	43.94	65.0	53.12	
+
+Scan343@1114.06_2	1114.06	45456.2	2	2205.13	0	0	0	No Results Found 									
+
+Scan345@1280.64_3	1280.64	38960.4	3	3795.941	1	1	1	G05159	(Gal)6 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3044.11	3044.11	51.56	37.25	43.54	41.7	
+
+Scan347@954.46_3	954.46	35061.7	3	2817.401	1	1	1	G04221	(Fuc)1 (GlcNAc)6 (GalNAc)2 (Man)3	GalNAc(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GalNAc(b1-4)GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2274.87	2274.87	15.91	17.36	15.0	8.43	
+Scan347@954.46_3	954.46	35061.7	3	2817.401	2	1	2	G01809	(Fuc)1 (GlcNAc)5 (GalNAc)3 (Man)3	GalNAc(b1-4)GlcNAc(b1-2)[GalNAc(b1-4)GlcNAc(b1-6)]Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2274.87	2274.87	9.09	15.97	15.91	6.48	
+Scan347@954.46_3	954.46	35061.7	3	2817.401	3	2	3	G04061	(Fuc)1 (GlcNAc)6 (GalNAc)2 (Man)3	GalNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[GalNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2274.87	2274.87	11.36	17.36	15.0	7.29	
+
+Scan349@1244.61_3	1244.61	29008.3	3	3687.85	1	1	1	G11892	(NeuAc)4 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)[NeuAc(a2-6)]Gal(b1-3)GlcNAc(b1-4)Man(a1-3)[NeuAc(a2-3)[NeuAc(a2-6)]Gal(b1-3)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2951.04(Asn)	2951.04	69.23	50.6	55.45	59.06	
+
+Scan351@1396.71_2	1396.71	43244.9	2	2770.43	0	0	0	No Results Found 									
+
+Scan353@757.706_3	757.706	39700.3	3	2227.14	1	1	1	G11407	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64(Asn)	1769.64	50.0	46.3	51.79	36.28	
+Scan353@757.706_3	757.706	39700.3	3	2227.14	1	1	1	G04416	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64	1769.64	50.0	46.3	51.79	36.28	
+Scan353@757.706_3	757.706	39700.3	3	2227.14	2	1	2	G02741	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64(Asn)	1769.64	50.0	42.59	51.79	36.01	
+Scan353@757.706_3	757.706	39700.3	3	2227.14	3	1	3	G12044	(NeuAc)1 (Gal)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)Man(a1-6)[GlcNAc(b1-4)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1769.64(Asn)	1769.64	50.0	40.74	51.79	34.55	
+
+Scan355@1389.7_2	1389.7	28205.7	2	2756.41	0	0	0	No Results Found 									
+
+Scan358@900.45_3	900.45	54087.9	3	2655.371	0	0	0	No Results Found 									
+
+Scan360@1321.67_2	1321.67	32983.9	2	2620.35	1	1	1	G04195	(Gal)1 (Fuc)2 (GlcNAc)3 (GalNAc)1 (Man)5	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-2)Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2094.77	2094.77	40.91	36.81	42.73	34.0	
+Scan360@1321.67_2	1321.67	32983.9	2	2620.35	2	1	2	G11981	(Gal)3 (Fuc)2 (GlcNAc)4 (Man)3	Gal(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2094.77	2094.77	36.36	33.33	35.45	34.03	
+Scan360@1321.67_2	1321.67	32983.9	2	2620.35	3	1	3	G02711	(Gal)3 (Fuc)2 (GlcNAc)4 (Man)3	Gal(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2094.77	2094.77	36.36	34.03	35.45	33.81	
+
+Scan362@1312.66_2	1312.66	31309.1	2	2602.33	1	1	1	G04145	(Gal)1 (GlcNAc)7 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2087.78(Asn)	2087.78	47.5	32.58	37.22	28.56	
+Scan362@1312.66_2	1312.66	31309.1	2	2602.33	2	1	2	G04338	(Gal)1 (GlcNAc)5 (GalNAc)2 (Man)3	Gal(b1-4)GlcNAc(b1-4)[GalNAc(b1-4)GlcNAc(b1-2)]Man(a1-3)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2087.78	2087.78	47.5	31.06	37.22	26.03	
+Scan362@1312.66_2	1312.66	31309.1	2	2602.33	3	1	3	G04372	(Gal)1 (GlcNAc)5 (GalNAc)2 (Man)3	GalNAc(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2087.78	2087.78	47.5	29.55	37.22	26.12	
+
+Scan364@870.43_3	870.43	32499.9	3	2565.31	1	1	1	G03894	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)5 (Asn)1	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2036.72(Asn)	2036.72	67.5	53.33	70.56	65.28	
+Scan364@870.43_3	870.43	32499.9	3	2565.31	2	1	2	G03893	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)5 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2036.72(Asn)	2036.72	67.5	53.79	70.56	65.22	
+Scan364@870.43_3	870.43	32499.9	3	2565.31	2	1	2	G12722	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)5	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2036.72	2036.72	67.5	53.79	70.56	65.22	
+Scan364@870.43_3	870.43	32499.9	3	2565.31	3	1	3	G11944	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)5 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-3)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2036.72(Asn)	2036.72	67.5	55.3	70.56	64.65	
+
+Scan366@1132.56_2	1132.56	23910.2	2	2242.13	1	1	1	G04730	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-6)[GlcNAc(b1-2)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	52.78	46.67	65.97	56.56	
+Scan366@1132.56_2	1132.56	23910.2	2	2242.13	2	1	2	G04826	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-6)]Man(1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	44.44	45.0	67.36	60.31	
+Scan366@1132.56_2	1132.56	23910.2	2	2242.13	2	1	2	G04368	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	44.44	45.0	67.36	60.31	
+Scan366@1132.56_2	1132.56	23910.2	2	2242.13	2	1	2	G01818	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66(Asn)	1786.66	44.44	45.0	67.36	60.31	
+Scan366@1132.56_2	1132.56	23910.2	2	2242.13	3	1	3	G02802	(Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1786.66	1786.66	44.44	45.83	67.36	59.69	
+
+Scan368@1302.64_3	1302.64	19254.8	3	3861.941	0	0	0	No Results Found 									
+
+Scan370@1370.68_2	1370.68	27094.4	2	2718.37	1	1	1	G04132	(Gal)2 (Xyl)1 (Me)2 (GlcNAc)4 (GalNAc)2 (Man)3	Gal(b1-3)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-3)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2206.83	2178.8	34.09	35.0	34.55	29.09	
+
+Scan372@874.43_3	874.43	21279.5	3	2577.309	0	0	0	No Results Found 									
+
+Scan374@1094.53_3	1094.53	25889.5	3	3237.611	0	0	0	No Results Found 									
+
+Scan376@858.409_3	858.409	24396.4	3	2529.246	1	1	1	G04565	(Gal)1 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2030.76	2030.76	52.5	38.64	63.33	52.86	
+Scan376@858.409_3	858.409	24396.4	3	2529.246	2	1	2	G02207	(Gal)1 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2030.76	2030.76	50.0	42.42	62.22	54.81	
+Scan376@858.409_3	858.409	24396.4	3	2529.246	3	1	3	G02771	(Gal)1 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2030.76	2030.76	50.0	39.39	62.22	55.07	
+
+Scan379@1579.801_1	1579.801	479307.0	1	1579.801	1	1	1	G05484	(GlcNAc)2 (Man)5	Man(a1-2)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44	1234.44	33.33	2.38	20.0	0.23	
+Scan379@1579.801_1	1579.801	479307.0	1	1579.801	1	1	1	G10150	(Gal)1 (GlcNAc)2 (Man)4	Man(a1-3)[Gal(b1-2)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44	1234.44	33.33	2.38	20.0	0.23	
+Scan379@1579.801_1	1579.801	479307.0	1	1579.801	2	1	2	G05485	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-2)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	33.33	2.38	20.0	0.0	
+Scan379@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G12061	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	33.33	2.38	20.0	0.0	
+Scan379@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G00315	(GlcNAc)2 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44	1234.44	33.33	2.38	20.0	0.0	
+Scan379@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G12127	(GlcNAc)2 (Man)5 (PP-Dol)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(PP-Dol)	1234.44	33.33	2.38	20.0	0.0	
+Scan379@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G00012	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	33.33	2.38	20.0	0.0	
+
+Scan380@1494.75_2	1494.75	257151.0	2	2966.51	1	1	1	G11975	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	18.18	7.64	9.55	3.05	
+Scan380@1494.75_2	1494.75	257151.0	2	2966.51	2	1	2	G10716	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85(Asn)	2368.85	18.18	7.64	9.55	3.0	
+Scan380@1494.75_2	1494.75	257151.0	2	2966.51	2	1	2	G00206	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	18.18	7.64	9.55	3.0	
+Scan380@1494.75_2	1494.75	257151.0	2	2966.51	2	1	2	G03840	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(a1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	18.18	7.64	9.55	3.0	
+Scan380@1494.75_2	1494.75	257151.0	2	2966.51	3	1	3	G03820	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2368.85	2368.85	18.18	7.64	9.55	2.86	
+
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	1	1	1	G05494	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-6)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	25.0	0.0	8.33	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	1	1	1	G05037	(Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	GlcNAc(b1-4)Man(a1-3)[GlcNAc(b1-4)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55(Asn)	1462.55	25.0	0.0	8.33	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	1	1	1	G05495	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-4)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	25.0	0.0	8.33	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	1	1	1	G00468	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	25.0	0.0	8.33	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	1	1	1	G05493	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-4)Man(a1-3)[GlcNAc(b1-6)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	25.0	0.0	8.33	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	1	1	1	G00178	(Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1462.55(Asn)	1462.55	25.0	0.0	8.33	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	1	1	1	G00016	(Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55(Asn)	1462.55	25.0	0.0	8.33	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	2	2	2	G10771	(Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-4)][Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55(Asn)	1462.55	21.43	0.0	7.14	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	2	2	2	G02251	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-2)Man(a1-6)[GlcNAc(b1-4)][Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	21.43	0.0	7.14	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	2	2	2	G05564	(Fuc)1 (GlcNAc)4 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-4)][Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	21.43	0.0	7.14	0.0	
+Scan382@1835.945_1	1835.945	318112.0	1	1835.945	3	2	4	G05306	(Fuc)1 (GlcNAc)3 (GalNAc)1 (Man)3	GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1462.55	1462.55	14.29	0.0	5.95	0.0	
+
+Scan384@1430.72_2	1430.72	164513.0	2	2838.45	1	1	1	G11928	(Gal)2 (Fuc)3 (GlcNAc)5 (Man)3	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2281.85	2281.85	25.0	8.33	19.7	6.95	
+Scan384@1430.72_2	1430.72	164513.0	2	2838.45	2	1	2	G01808	(Gal)2 (Fuc)3 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2281.85	2281.85	25.0	8.33	18.94	8.43	
+Scan384@1430.72_2	1430.72	164513.0	2	2838.45	3	2	3	G10850	(NeuGc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2255.8(Asn)	2255.8	11.36	8.33	13.18	5.93	
+Scan384@1430.72_2	1430.72	164513.0	2	2838.45	3	2	3	G01320	(NeuGc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2255.8	2255.8	11.36	8.33	13.18	5.93	
+Scan384@1430.72_2	1430.72	164513.0	2	2838.45	3	2	3	G03876	(NeuGc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2255.8	2255.8	11.36	8.33	13.18	5.93	
+
+Scan386@1813.41_2	1813.41	237612.0	2	3603.83	1	1	1	G01915	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	19.23	1.79	8.01	1.23	
+Scan386@1813.41_2	1813.41	237612.0	2	3603.83	2	1	21	G03029	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	11.54	1.79	6.09	2.0	
+Scan386@1813.41_2	1813.41	237612.0	2	3603.83	3	1	22	G03028	(NeuAc)3 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2879.02	2879.02	11.54	1.79	6.09	1.9	
+
+Scan388@1783.904_1	1783.904	219690.0	1	1783.904	1	1	1	G05396	(Gal)1 (GlcNAc)2 (Man)5	Gal(b1-)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc	1396.49	1396.49	21.43	1.04	21.43	0.0	
+Scan388@1783.904_1	1783.904	219690.0	1	1783.904	1	1	1	G05658	(Gal)1 (GlcNAc)2 (Man)5	Gal(1-)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc	1396.49	1396.49	21.43	1.04	21.43	0.0	
+Scan388@1783.904_1	1783.904	219690.0	1	1783.904	2	1	2	G02243	(GlcNAc)2 (Man)6	Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man(a1-6)Man(b1-4)GlcNAc(b1-4)GlcNAc	1396.49	1396.49	28.57	1.04	19.05	0.0	
+Scan388@1783.904_1	1783.904	219690.0	1	1783.904	3	1	3	G01887	(Gal)1 (GlcNAc)2 (Man)5	Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc	1396.49	1396.49	21.43	1.04	21.43	0.0	
+
+Scan389@1436.725_2	1436.725	133618.0	2	2850.459	1	1	1	G11913	(S)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2360.79	2280.83	22.73	13.19	17.73	6.29	
+Scan389@1436.725_2	1436.725	133618.0	2	2850.459	2	1	2	G03957	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2280.83	2280.83	20.45	12.5	13.64	5.86	
+Scan389@1436.725_2	1436.725	133618.0	2	2850.459	3	1	3	G01088	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2280.83	2280.83	20.45	12.5	13.64	5.79	
+Scan389@1436.725_2	1436.725	133618.0	2	2850.459	3	1	3	G10789	(NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2280.83(Asn)	2280.83	20.45	12.5	13.64	5.79	
+
+Scan391@1579.801_1	1579.801	479307.0	1	1579.801	1	1	1	G05484	(GlcNAc)2 (Man)5	Man(a1-2)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44	1234.44	29.17	2.38	20.0	0.46	
+Scan391@1579.801_1	1579.801	479307.0	1	1579.801	1	1	1	G10150	(Gal)1 (GlcNAc)2 (Man)4	Man(a1-3)[Gal(b1-2)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44	1234.44	29.17	2.38	20.0	0.46	
+Scan391@1579.801_1	1579.801	479307.0	1	1579.801	2	1	2	G05485	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-2)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	29.17	2.38	20.0	0.0	
+Scan391@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G12061	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	29.17	2.38	20.0	0.0	
+Scan391@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G00315	(GlcNAc)2 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44	1234.44	29.17	2.38	20.0	0.0	
+Scan391@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G12127	(GlcNAc)2 (Man)5 (PP-Dol)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(PP-Dol)	1234.44	29.17	2.38	20.0	0.0	
+Scan391@1579.801_1	1579.801	479307.0	1	1579.801	3	1	3	G00012	(GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1234.44(Asn)	1234.44	29.17	2.38	20.0	0.0	
+
+Scan392@1617.81_2	1617.81	157707.0	2	3212.63	1	1	1	G03704	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-6)[GlcNAc(b1-2)]Man(a1-6)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93	2571.93	16.67	0.0	5.68	0.89	
+Scan392@1617.81_2	1617.81	157707.0	2	3212.63	2	1	2	G12922	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)[GlcNAc(b1-2)]Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93	2571.93	16.67	0.0	5.68	0.89	
+Scan392@1617.81_2	1617.81	157707.0	2	3212.63	3	2	3	G11703	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93	2571.93	16.67	0.0	5.3	0.78	
+Scan392@1617.81_2	1617.81	157707.0	2	3212.63	3	2	3	G11906	(NeuAc)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2571.93(Asn)	2571.93	16.67	0.0	5.3	0.78	
+
+Scan394@1517.77_2	1517.77	142722.0	2	3012.55	0	0	0	No Results Found 									
+
+Scan397@1524.27_2	1524.27	122074.0	2	3025.55	1	1	1	G02179	(NeuGc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2400.84	2400.84	9.09	9.72	10.0	6.0	
+Scan397@1524.27_2	1524.27	122074.0	2	3025.55	1	1	1	G10840	(NeuGc)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2400.84(Asn)	2400.84	9.09	9.72	10.0	6.0	
+
+Scan399@1457.2_2	1457.2	102448.0	2	2891.41	1	1	1	G11918	(S)1 (NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)5 (GalNAc)1 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2401.81	2321.86	38.64	36.81	35.0	26.48	
+
+Scan401@1611.32_2	1611.32	101280.0	2	3199.65	1	1	1	G02655	(NeuAc)2 (Gal)4 (GlcNAc)4 (Man)3	Gal(b1-4)[NeuAc(a2-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[NeuAc(a2-3)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2546.9	2546.9	0.0	1.92	1.52	3.24	
+Scan401@1611.32_2	1611.32	101280.0	2	3199.65	2	1	2	G03674	(NeuAc)2 (Gal)4 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2546.9	2546.9	0.0	0.64	1.52	3.26	
+
+Scan403@1487.74_3	1487.74	90710.0	3	4417.24	0	0	0	No Results Found 									
+
+Scan405@1590.82_2	1590.82	84296.8	2	3158.65	1	1	1	G03979	(NeuAc)1 (Gal)3 (Fuc)3 (GlcNAc)3 (GalNAc)1 (Man)3	NeuAc(a2-6)Gal(b1-4)[Fuc(a1-6)]GalNAc(1-2)Man(1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(1-4)[Fuc(a1-3)Fuc(a1-3)]GlcNAc	2531.92	2531.92	15.38	12.5	7.37	7.57	
+Scan405@1590.82_2	1590.82	84296.8	2	3158.65	1	1	1	G03988	(NeuAc)1 (Gal)3 (Fuc)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)[Fuc(a1-6)]GlcNAc(1-2)Man(1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(1-4)[Fuc(a1-3)Fuc(a1-3)]GlcNAc	2531.92	2531.92	15.38	12.5	7.37	7.57	
+
+Scan407@1423.21_2	1423.21	69635.7	2	2823.43	1	1	1	G03914	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	27.5	19.7	13.33	9.3	
+Scan407@1423.21_2	1423.21	69635.7	2	2823.43	2	1	2	G03915	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	27.5	16.67	13.33	9.56	
+Scan407@1423.21_2	1423.21	69635.7	2	2823.43	3	1	3	G03913	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	27.5	17.42	13.33	9.39	
+
+Scan409@1604.82_2	1604.82	80639.3	2	3186.65	1	1	1	G03686	(Neu)1 (Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Neu(a2-6)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2546.93	2546.93	19.23	8.93	19.55	13.33	
+
+Scan411@1410.71_2	1410.71	83180.9	2	2798.43	0	0	0	No Results Found 									
+
+Scan413@1900.96_2	1900.96	82640.8	2	3778.93	1	1	1	G04224	(NeuAc)1 (Gal)5 (GlcNAc)7 (Man)3 (Asn)1	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3027.09(Asn)	3027.09	10.0	3.65	3.57	4.04	
+
+Scan415@1415.71_2	1415.71	52606.8	2	2808.43	1	1	2	G03883	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8	2239.8	20.45	12.5	13.64	13.14	
+Scan415@1415.71_2	1415.71	52606.8	2	2808.43	2	1	3	G10712	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8(Asn)	2239.8	20.45	13.19	13.64	12.71	
+Scan415@1415.71_2	1415.71	52606.8	2	2808.43	2	1	3	G03882	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8	2239.8	20.45	13.19	13.64	12.71	
+Scan415@1415.71_2	1415.71	52606.8	2	2808.43	2	1	3	G02182	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2239.8	2239.8	20.45	13.19	13.64	12.71	
+Scan415@1415.71_2	1415.71	52606.8	2	2808.43	3	2	3	G03826	(S)1 (NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)4 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2319.76	2239.8	20.45	13.19	13.64	12.71	
+
+Scan418@1632.319_2	1632.319	42973.4	2	3241.648	1	1	9	G04883	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92(Asn)	2587.92	18.75	11.54	3.41	3.13	
+Scan418@1632.319_2	1632.319	42973.4	2	3241.648	2	1	10	G03788	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	18.75	11.54	3.41	3.01	
+Scan418@1632.319_2	1632.319	42973.4	2	3241.648	3	1	11	G01692	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92	2587.92	18.75	11.54	3.41	2.89	
+Scan418@1632.319_2	1632.319	42973.4	2	3241.648	3	1	11	G10721	(NeuAc)2 (Gal)3 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2587.92(Asn)	2587.92	18.75	11.54	3.41	2.89	
+
+Scan420@1625.308_2	1625.308	38814.4	2	3227.627	1	1	1	G03694	(NeuAc)1 (Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2588.94	2588.94	15.38	22.62	17.63	10.59	
+
+Scan422@1988_1	1988	76703.3	1	1988	1	1	1	G05023	(GlcNAc)2 (Man)7	Man(a1-2)Man(a1-3)Man(a1-3)[Man(a1-2)Man(a1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54	1558.54	31.25	0.93	14.29	0.27	
+Scan422@1988_1	1988	76703.3	1	1988	1	1	1	G05022	(GlcNAc)2 (Man)7	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54	1558.54	31.25	0.93	14.29	0.27	
+Scan422@1988_1	1988	76703.3	1	1988	1	1	1	G10596	(GlcNAc)2 (Man)7 (PP-Dol)1	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54(PP-Dol)	1558.54	31.25	0.93	14.29	0.27	
+Scan422@1988_1	1988	76703.3	1	1988	1	1	1	G00576	(GlcNAc)2 (Man)7	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54	1558.54	31.25	0.93	14.29	0.27	
+Scan422@1988_1	1988	76703.3	1	1988	1	1	1	G11015	(GlcNAc)2 (Man)7 (Asn)1	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-3)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54(Asn)	1558.54	31.25	0.93	14.29	0.27	
+Scan422@1988_1	1988	76703.3	1	1988	2	1	2	G12081	(GlcNAc)2 (Man)7 (Asn)1	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54(Asn)	1558.54	31.25	0.93	12.5	0.13	
+Scan422@1988_1	1988	76703.3	1	1988	2	1	2	G00312	(GlcNAc)2 (Man)7	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54	1558.54	31.25	0.93	12.5	0.13	
+Scan422@1988_1	1988	76703.3	1	1988	2	1	2	G10680	(GlcNAc)2 (Man)7 (Asn)1	Man(a1-2)Man(a1-2)Man(a1-3)[Man(a1-3)[Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54(Asn)	1558.54	31.25	0.93	12.5	0.13	
+Scan422@1988_1	1988	76703.3	1	1988	2	1	2	G05094	(Glc)1 (GlcNAc)2 (Man)6	Man(a1-2)Man(a1-2)Man(a1-3)[Man(b1-3)[Man(a1-6)]Glc(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54	1558.54	31.25	0.93	12.5	0.13	
+Scan422@1988_1	1988	76703.3	1	1988	2	1	2	G05038	(GlcNAc)2 (Man)7	Man(a1-2)Man(a1-2)Man(a1-6)[Man(a1-3)[Man(a1-6)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54	1558.54	31.25	0.93	12.5	0.13	
+Scan422@1988_1	1988	76703.3	1	1988	3	2	3	G05021	(GlcNAc)2 (Man)7	Man(a1-2)Man(a1-2)[Man(a1-2)Man(a1-6)]Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1558.54	1558.54	28.12	2.78	12.5	0.27	
+
+Scan423@1576.8_2	1576.8	68099.3	2	3130.61	1	1	1	G03830	(Gal)6 (GlcNAc)5 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2491.89	2491.89	9.62	7.14	15.06	7.25	
+Scan423@1576.8_2	1576.8	68099.3	2	3130.61	2	1	2	G11319	(Gal)6 (GlcNAc)5 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2491.89	2491.89	9.62	5.95	15.06	7.1	
+
+Scan425@1452.72_2	1452.72	54889.7	2	2882.45	1	1	1	G03806	(Neu)2 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	Neu(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Neu(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2284.83	2284.83	15.91	22.92	18.18	17.07	
+
+Scan427@1838.95_1	1838.95	58177.6	1	1838.95	0	0	0	No Results Found 									
+
+Scan428@1466.25_2	1466.25	59272.5	2	2909.51	1	1	1	G04084	(Gal)2 (Fuc)2 (GlcNAc)5 (GalNAc)1 (Man)3	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2338.87	2338.87	39.58	10.9	23.48	11.3	
+
+Scan430@1445.73_2	1445.73	46059.9	2	2868.47	1	1	1	G04001	(Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2297.85	2297.85	45.83	27.56	34.09	24.64	
+Scan430@1445.73_2	1445.73	46059.9	2	2868.47	2	1	2	G02187	(Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2297.85	2297.85	52.08	26.28	32.58	30.92	
+Scan430@1445.73_2	1445.73	46059.9	2	2868.47	3	1	3	G04057	(Gal)3 (Fuc)2 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2297.85	2297.85	50.0	26.92	32.95	27.48	
+
+Scan432@1539.78_2	1539.78	51696.3	2	3056.57	0	0	0	No Results Found 									
+
+Scan434@1566.79_2	1566.79	45319.3	2	3110.59	1	1	1	G03956	(Gal)3 (Fuc)2 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2500.93	2500.93	1.92	2.38	5.45	7.66	
+
+Scan437@1967.991_1	1967.991	45386.7	1	1967.991	1	1	1	G04649	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3 (Asn)1	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58(Asn)	1567.58	15.62	1.85	8.93	1.47	
+Scan437@1967.991_1	1967.991	45386.7	1	1967.991	2	1	2	G04711	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3 (Asn)1	Fuc(a1-2)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58(Asn)	1567.58	15.62	0.93	8.93	1.2	
+Scan437@1967.991_1	1967.991	45386.7	1	1967.991	3	2	3	G01659	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58	1567.58	15.62	1.85	8.04	1.59	
+Scan437@1967.991_1	1967.991	45386.7	1	1967.991	3	2	3	G10940	(Gal)1 (Fuc)2 (GlcNAc)3 (Man)3 (Asn)1	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1567.58(Asn)	1567.58	15.62	1.85	8.04	1.59	
+
+Scan439@1690.85_2	1690.85	37347.8	2	3358.71	1	1	1	G00911	(NeuAc)3 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2675.94	2675.94	45.83	19.23	13.64	12.41	
+Scan439@1690.85_2	1690.85	37347.8	2	3358.71	2	1	2	G01032	(NeuAc)3 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2675.94	2675.94	45.83	17.95	13.64	12.11	
+Scan439@1690.85_2	1690.85	37347.8	2	3358.71	3	1	3	G01141	(NeuAc)3 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc	2675.94	2675.94	45.83	17.95	13.64	12.05	
+
+Scan441@1450.72_2	1450.72	25299.6	2	2878.45	1	1	2	G04040	(NeuAc)1 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2296.83	2296.83	6.82	15.28	14.09	7.81	
+Scan441@1450.72_2	1450.72	25299.6	2	2878.45	2	1	3	G02679	(NeuAc)1 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2296.83	2296.83	6.82	14.58	14.09	7.5	
+Scan441@1450.72_2	1450.72	25299.6	2	2878.45	3	1	4	G01802	(NeuAc)1 (Gal)3 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2296.83	2296.83	6.82	15.28	14.09	7.38	
+
+Scan443@1821.93_2	1821.93	42032.5	2	3620.87	1	1	5	G10466	(Gal)6 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2898.05	2898.05	3.33	6.25	8.81	1.81	
+Scan443@1821.93_2	1821.93	42032.5	2	3620.87	2	1	6	G03659	(Gal)6 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)[Gal(b1-4)GlcNAc(b1-6)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-3)[Gal(b1-4)GlcNAc(b1-6)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2898.05	2898.05	3.33	4.17	7.62	2.6	
+Scan443@1821.93_2	1821.93	42032.5	2	3620.87	3	2	4	G07777	(Gal)6 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2898.05	2898.05	5.0	5.73	8.57	2.24	
+
+Scan445@1532.78_2	1532.78	41182.1	2	3042.57	1	1	1	G03994	(Gal)3 (Fuc)3 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2443.91	2443.91	48.08	31.55	38.78	30.88	
+Scan445@1532.78_2	1532.78	41182.1	2	3042.57	2	1	2	G03980	(Gal)3 (Fuc)3 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2443.91	2443.91	48.08	31.55	38.78	30.73	
+Scan445@1532.78_2	1532.78	41182.1	2	3042.57	3	1	3	G03951	(Gal)3 (Fuc)3 (GlcNAc)5 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2443.91	2443.91	51.92	33.33	36.22	28.24	
+
+Scan447@1593.81_1	1593.81	35569.1	1	1593.81	0	0	0	No Results Found 									
+
+Scan449@1508.761_2	1508.761	24442.4	2	2994.531	1	1	1	G03852	(NeuAc)2 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc	2384.84	2384.84	34.09	25.0	30.0	18.94	
+Scan449@1508.761_2	1508.761	24442.4	2	2994.531	2	1	2	G03821	(NeuAc)2 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc	2384.84	2384.84	34.09	25.69	30.0	18.86	
+Scan449@1508.761_2	1508.761	24442.4	2	2994.531	3	1	3	G02665	(NeuAc)2 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2384.84	2384.84	34.09	25.69	30.0	18.79	
+
+Scan451@1481.25_2	1481.25	33244.6	2	2939.51	1	1	1	G00674	(Gal)3 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2354.87	2354.87	47.92	23.72	28.41	18.16	
+Scan451@1481.25_2	1481.25	33244.6	2	2939.51	2	1	2	G02700	(Gal)3 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2354.87	2354.87	47.92	23.72	28.41	17.51	
+Scan451@1481.25_2	1481.25	33244.6	2	2939.51	3	2	3	G02691	(Gal)3 (Fuc)1 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2354.87	2354.87	45.83	25.0	27.27	18.14	
+
+Scan453@1503.76_2	1503.76	33726.2	2	2984.53	0	0	0	No Results Found 									
+
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	1	1	3	G00490	(GlcNAc)5 (Man)3	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57	1519.57	35.71	0.0	32.14	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	1	1	3	G05119	(GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-4)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57(Asn)	1519.57	35.71	0.0	32.14	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	1	1	3	G00019	(GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57(Asn)	1519.57	35.71	0.0	32.14	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	2	2	1	G05642	(GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc	1519.57	1519.57	39.29	0.0	40.48	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	2	2	1	G05689	(GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc	1519.57	1519.57	39.29	0.0	40.48	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G00776	(GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57	1519.57	32.14	0.0	28.57	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G00533	(GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57	1519.57	32.14	0.0	28.57	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G01552	(GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57(Asn)	1519.57	32.14	0.0	28.57	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G10818	(GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57(Asn)	1519.57	32.14	0.0	28.57	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G05541	(GlcNAc)5 (Man)3	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-4)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57	1519.57	32.14	0.0	28.57	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G13030	(GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57(Asn)	1519.57	32.14	0.0	28.57	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G12113	(GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57(Asn)	1519.57	32.14	0.0	28.57	0.0	
+Scan455@1906.981_1	1906.981	37138.7	1	1906.981	3	2	4	G00020	(GlcNAc)5 (Man)3 (Asn)1	GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1519.57(Asn)	1519.57	32.14	0.0	28.57	0.0	
+
+Scan457@1713.36_2	1713.36	35181.9	2	3403.73	1	1	1	G03661	(NeuAc)1 (Gal)3 (Fuc)3 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2735.0	2735.0	26.79	2.22	10.99	6.48	
+
+Scan459@1786.91_1	1786.91	32411.0	1	1786.91	0	0	0	No Results Found 									
+
+Scan460@1501.76_2	1501.76	24946.4	2	2980.53	0	0	0	No Results Found 									
+
+Scan462@1661.85_2	1661.85	27357.4	2	3300.71	0	0	0	No Results Found 									
+
+Scan464@1552.78_2	1552.78	27112.0	2	3082.57	1	1	1	G03792	(NeuAc)1 (Gal)4 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2458.88	2458.88	12.5	23.08	22.73	24.76	
+
+Scan466@1647.83_2	1647.83	26580.4	2	3272.67	0	0	0	No Results Found 									
+
+Scan468@1764.89_2	1764.89	25963.1	2	3506.79	1	1	1	G03594	(Gal)5 (Xyl)1 (Me)5 (Fuc)1 (GlcNAc)4 (GalNAc)2 (Man)3	Gal(b1-6)Gal(b1-3)[Gal(b1-6)]GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)[Gal(b1-3)[Gal(b1-6)]GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2881.1	2811.02	18.33	9.04	20.71	15.13	
+Scan468@1764.89_2	1764.89	25963.1	2	3506.79	2	1	2	G03593	(Gal)5 (Xyl)1 (Me)5 (Fuc)1 (GlcNAc)4 (GalNAc)2 (Man)3	Gal(b1-6)Gal(b1-3)[Gal(b1-6)]GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-3)[Gal(b1-6)]GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2881.1	2811.02	18.33	9.57	20.71	15.05	
+
+Scan470@1459.73_2	1459.73	22315.2	2	2896.47	1	1	1	G04005	(Gal)4 (Fuc)1 (GlcNAc)5 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2313.84	2313.84	35.42	29.49	37.88	31.96	
+Scan470@1459.73_2	1459.73	22315.2	2	2896.47	2	1	2	G04003	(Gal)4 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2313.84	2313.84	35.42	30.77	37.88	31.83	
+Scan470@1459.73_2	1459.73	22315.2	2	2896.47	3	1	3	G04019	(Gal)4 (Fuc)1 (GlcNAc)5 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-6)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2313.84	2313.84	35.42	30.77	37.88	31.83	
+
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	1	1	1	G03743	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.48	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	1	1	1	G03744	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.48	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	2	1	2	G03745	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	10.12	21.67	20.39	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03739	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03729	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03742	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03738	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03736	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03740	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03741	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+Scan472@1486.4_3	1486.4	30949.1	3	4413.221	3	1	3	G03732	(NeuAc)4 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	3535.25	3535.25	28.12	12.25	21.67	20.11	
+
+Scan474@1497.76_2	1497.76	28782.0	2	2972.53	0	0	0	No Results Found 									
+
+Scan477@1473.74_2	1473.74	23141.5	2	2924.49	0	0	0	No Results Found 									
+
+Scan479@1421.72_2	1421.72	25216.8	2	2820.45	1	1	2	G03914	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	32.5	23.48	20.0	18.07	
+Scan479@1421.72_2	1421.72	25216.8	2	2820.45	2	1	3	G03915	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	32.5	21.21	20.0	17.46	
+Scan479@1421.72_2	1421.72	25216.8	2	2820.45	3	1	4	G03913	(NeuGc)1 (NeuAc)1 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2238.78	2238.78	32.5	21.97	20.0	17.19	
+
+Scan481@1655.84_2	1655.84	23689.6	2	3288.69	1	1	1	G11329	(NeuAc)1 (Gal)5 (GlcNAc)5 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2620.93	2620.93	17.31	10.12	14.74	10.7	
+
+Scan483@1508.76_2	1508.76	25822.8	2	2994.53	1	1	1	G02662	(NeuAc)2 (Gal)3 (GlcNAc)4 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2384.84	2384.84	34.09	43.06	46.36	31.97	
+Scan483@1508.76_2	1508.76	25822.8	2	2994.53	2	1	2	G10961	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84(Asn)	2384.84	31.82	44.44	45.0	30.0	
+Scan483@1508.76_2	1508.76	25822.8	2	2994.53	2	1	2	G02180	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84	2384.84	31.82	44.44	45.0	30.0	
+Scan483@1508.76_2	1508.76	25822.8	2	2994.53	3	1	3	G10960	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3 (Asn)1	NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84(Asn)	2384.84	31.82	42.36	45.0	29.93	
+Scan483@1508.76_2	1508.76	25822.8	2	2994.53	3	1	3	G02181	(NeuGc)1 (NeuAc)1 (Gal)2 (Fuc)1 (GlcNAc)4 (Man)3	NeuGc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2384.84	2384.84	31.82	42.36	45.0	29.93	
+
+Scan485@1560.78_2	1560.78	22074.1	2	3098.57	0	0	0	No Results Found 									
+
+Scan487@1719.87_2	1719.87	28087.0	2	3416.75	1	1	1	G01685	(NeuAc)2 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2733.98	2733.98	17.31	6.55	10.58	8.64	
+Scan487@1719.87_2	1719.87	28087.0	2	3416.75	1	1	1	G10978	(NeuAc)2 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2733.98(Asn)	2733.98	17.31	6.55	10.58	8.64	
+Scan487@1719.87_2	1719.87	28087.0	2	3416.75	2	1	2	G10963	(NeuAc)2 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2733.98(Asn)	2733.98	17.31	5.95	10.58	8.54	
+Scan487@1719.87_2	1719.87	28087.0	2	3416.75	2	1	2	G01696	(NeuAc)2 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2733.98	2733.98	17.31	5.95	10.58	8.54	
+Scan487@1719.87_2	1719.87	28087.0	2	3416.75	3	1	3	G10890	(NeuAc)2 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2733.98(Asn)	2733.98	17.31	5.36	10.58	8.38	
+Scan487@1719.87_2	1719.87	28087.0	2	3416.75	3	1	3	G02299	(NeuAc)2 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2733.98	2733.98	17.31	5.36	10.58	8.38	
+
+Scan489@1562.79_2	1562.79	26029.7	2	3102.59	1	1	1	G03874	(Gal)5 (Fuc)1 (GlcNAc)5 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2475.9	2475.9	9.62	18.45	27.88	14.79	
+Scan489@1562.79_2	1562.79	26029.7	2	3102.59	2	1	2	G03862	(Gal)5 (Fuc)1 (GlcNAc)5 (Man)3	Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2475.9	2475.9	9.62	18.45	27.88	14.68	
+Scan489@1562.79_2	1562.79	26029.7	2	3102.59	3	2	3	G03858	(Gal)5 (Fuc)1 (GlcNAc)5 (Man)3	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2475.9	2475.9	9.62	18.45	23.4	13.24	
+
+Scan491@1794.92_2	1794.92	27099.6	2	3566.85	0	0	0	No Results Found 									
+
+Scan493@1609.81_2	1609.81	21448.7	2	3196.63	0	0	0	No Results Found 									
+
+Scan495@1530.77_2	1530.77	24903.1	2	3038.55	1	1	1	G10847	(NeuAc)2 (Gal)2 (GlcNAc)5 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2425.87(Asn)	2425.87	18.18	20.83	22.27	11.57	
+Scan495@1530.77_2	1530.77	24903.1	2	3038.55	1	1	1	G00653	(NeuAc)2 (Gal)2 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2425.87	2425.87	18.18	20.83	22.27	11.57	
+
+Scan498@1620.82_2	1620.82	23333.4	2	3218.65	0	0	0	No Results Found 									
+
+Scan500@1588.81_2	1588.81	22706.9	2	3154.63	1	1	1	G07399	(NeuAc)3 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2513.88(Asn)	2513.88	22.73	23.61	15.45	16.74	
+Scan500@1588.81_2	1588.81	22706.9	2	3154.63	2	1	2	G07400	(NeuAc)3 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2513.88(Asn)	2513.88	22.73	23.61	15.45	16.52	
+Scan500@1588.81_2	1588.81	22706.9	2	3154.63	3	1	3	G02659	(NeuAc)3 (Gal)2 (GlcNAc)4 (Man)3	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2513.88	2513.88	22.73	22.92	15.45	16.3	
+Scan500@1588.81_2	1588.81	22706.9	2	3154.63	3	1	3	G09792	(NeuAc)3 (Glc)2 (Gal)2 (GlcNAc)4 (Man)1 (Asn)1	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-2)Glc(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Glc(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2513.88(Asn)	2513.88	22.73	22.92	15.45	16.3	
+Scan500@1588.81_2	1588.81	22706.9	2	3154.63	3	1	3	G02019	(NeuAc)3 (Gal)2 (GlcNAc)4 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2513.88(Asn)	2513.88	22.73	22.92	15.45	16.3	
+
+Scan502@1807.91_2	1807.91	25706.5	2	3592.83	1	1	1	G11876	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)][Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	23.33	11.46	19.05	16.04	
+Scan502@1807.91_2	1807.91	25706.5	2	3592.83	2	1	2	G11883	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)][Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	23.33	8.85	19.05	15.81	
+Scan502@1807.91_2	1807.91	25706.5	2	3592.83	3	1	3	G02657	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	23.33	12.5	17.62	13.47	
+
+Scan504@1705.86_2	1705.86	23920.8	2	3388.73	1	1	1	G00874	(Gal)4 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2720.0	2720.0	30.36	13.89	20.33	15.08	
+
+Scan506@1780.9_1	1780.9	25603.1	1	1780.9	1	1	1	G02907	(Xyl)1 (GlcNAc)3 (Man)4	Man(a1-3)Man(a1-6)[GlcNAc(b1-2)Man(a1-3)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1407.51	1407.51	25.0	11.96	20.24	8.45	
+
+Scan508@1537.77_2	1537.77	15679.8	2	3052.55	1	1	1	G03847	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2442.88	2442.88	43.75	26.28	43.56	36.05	
+Scan508@1537.77_2	1537.77	15679.8	2	3052.55	2	1	2	G03897	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2442.88	2442.88	43.75	25.0	43.56	36.1	
+Scan508@1537.77_2	1537.77	15679.8	2	3052.55	3	1	3	G03871	(NeuAc)1 (Gal)3 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2442.88	2442.88	43.75	25.0	43.56	35.89	
+
+Scan510@1676.85_2	1676.85	18089.5	2	3330.71	1	1	1	G11342	(NeuAc)1 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2661.96	2661.96	19.23	26.19	31.41	20.3	
+Scan510@1676.85_2	1676.85	18089.5	2	3330.71	2	2	2	G04336	(NeuAc)1 (Gal)4 (GlcNAc)6 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2661.96(Asn)	2661.96	25.0	26.19	29.49	19.69	
+
+Scan512@1574.79_2	1574.79	19893.5	2	3126.59	1	1	2	G11341	(NeuAc)1 (Gal)3 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2499.91	2499.91	31.25	41.67	31.06	24.76	
+Scan512@1574.79_2	1574.79	19893.5	2	3126.59	2	2	3	G03762	(Neu)2 (Gal)2 (Fuc)1 (GlcNAc)5 (Man)3	Neu(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Neu(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2487.91	2487.91	37.5	34.62	28.03	32.1	
+Scan512@1574.79_2	1574.79	19893.5	2	3126.59	3	3	1	G11340	(NeuAc)1 (Gal)3 (GlcNAc)6 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2499.91	2499.91	33.33	41.67	31.06	27.03	
+
+Scan514@1623.8_2	1623.8	15996.4	2	3224.61	1	1	1	G02672	(Gal)2 (Fuc)1 (GlcNAc)6 (GalNAc)2 (Man)3	Gal(b1-4)GlcNAc(b1-4)[GalNAc(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-6)[GalNAc(b1-4)GlcNAc(b1-2)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2598.97	2598.97	13.46	19.64	16.67	13.26	
+Scan514@1623.8_2	1623.8	15996.4	2	3224.61	2	2	3	G04111	(Gal)2 (Fuc)1 (GlcNAc)8 (Man)3	Gal(b1-4)GlcNAc(b1-4)[GlcNAc(b1-6)][GlcNAc(b1-2)]Man(a1-6)[Gal(1-4)GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2598.97	2598.97	15.38	20.24	16.03	14.57	
+Scan514@1623.8_2	1623.8	15996.4	2	3224.61	3	3	2	G03837	(Gal)2 (Fuc)1 (GlcNAc)8 (Man)3	GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)[GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2598.97	2598.97	19.23	22.02	15.38	14.73	
+
+Scan515@1879.95_2	1879.95	19608.0	2	3736.91	1	1	2	G11327	(NeuAc)1 (Gal)6 (GlcNAc)6 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2986.07	2986.07	18.33	15.1	16.19	14.09	
+Scan515@1879.95_2	1879.95	19608.0	2	3736.91	2	2	1	G03683	(Gal)4 (Fuc)3 (GlcNAc)7 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3012.12	3012.12	28.12	6.37	22.92	10.7	
+
+Scan518@1769.89_2	1769.89	27810.7	2	3516.79	0	0	0	No Results Found 									
+
+Scan520@1443.71_2	1443.71	11561.2	2	2864.43	0	0	0	No Results Found 									
+
+Scan522@1603.32_2	1603.32	22570.5	2	3183.65	1	1	1	G02673	(Gal)3 (Fuc)1 (GlcNAc)6 (GalNAc)1 (Man)3	Gal(b1-4)GlcNAc(b1-4)[GalNAc(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2557.95	2557.95	30.77	20.83	27.88	21.88	
+
+Scan524@1468.74_3	1468.74	20901.3	3	4360.24	0	0	0	No Results Found 									
+
+Scan526@1597.8_2	1597.8	21814.5	2	3172.61	1	1	3	G03831	(Gal)5 (GlcNAc)6 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2532.92	2532.92	11.54	17.26	15.06	15.72	
+Scan526@1597.8_2	1597.8	21814.5	2	3172.61	2	1	6	G03946	(Glc)3 (GlcNAc)1 (Man)11	Glc(a1-2)Glc(a1-3)Glc(a1-3)Man(a1-2)Man(a1-2)[Man(a1-2)Man(a1-6)]Man(a1-3)[Man(a1-3)Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc	2489.84	2489.84	17.86	22.22	12.09	17.43	
+Scan526@1597.8_2	1597.8	21814.5	2	3172.61	3	2	4	G03823	(Gal)4 (GlcNAc)1 (Man)10	Gal(a1-2)Gal(a1-2)Man(a1-2)Man(a1-2)[Man(a1-6)]Man(a1-3)[Gal(a1-2)Man(a1-2)Man(a1-3)[Gal(a1-2)Man(a1-2)Man(a1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2489.84	2489.84	17.86	20.0	13.74	17.86	
+
+Scan528@1526.77_2	1526.77	21232.1	2	3030.55	0	0	0	No Results Found 									
+
+Scan530@1777.9_2	1777.9	21994.5	2	3532.81	1	1	1	G11332	(NeuAc)1 (Gal)5 (GlcNAc)6 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2824.01	2824.01	14.29	30.0	28.85	21.65	
+
+Scan532@1792.91_2	1792.91	21280.0	2	3562.83	0	0	0	No Results Found 									
+
+Scan533@1428.7_2	1428.7	19945.9	2	2834.41	1	1	1	G03909	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-3)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82	2263.82	45.0	28.79	28.33	27.28	
+Scan533@1428.7_2	1428.7	19945.9	2	2834.41	2	1	2	G03908	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82	2263.82	45.0	28.03	28.33	26.75	
+Scan533@1428.7_2	1428.7	19945.9	2	2834.41	3	1	3	G11444	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82(Asn)	2263.82	45.0	28.03	28.33	25.96	
+Scan533@1428.7_2	1428.7	19945.9	2	2834.41	3	1	3	G03907	(NeuAc)2 (Gal)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2263.82	2263.82	45.0	28.03	28.33	25.96	
+
+Scan535@1479.73_2	1479.73	13098.9	2	2936.47	0	0	0	No Results Found 									
+
+Scan538@1544.77_3	1544.77	40867.2	3	4588.331	1	1	9	G11855	(NeuAc)4 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-)NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-)NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3681.31(Asn)	3681.31	26.47	18.14	18.2	15.65	
+Scan538@1544.77_3	1544.77	40867.2	3	4588.331	2	2	1	G06357	(NeuAc)4 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-3)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3681.31	3681.31	35.29	23.15	19.67	16.72	
+Scan538@1544.77_3	1544.77	40867.2	3	4588.331	3	2	2	G10969	(NeuAc)4 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3 (Asn)1	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3681.31(Asn)	3681.31	35.29	23.15	19.67	16.12	
+Scan538@1544.77_3	1544.77	40867.2	3	4588.331	3	2	2	G00327	(NeuAc)4 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3681.31	3681.31	35.29	23.15	19.67	16.12	
+Scan538@1544.77_3	1544.77	40867.2	3	4588.331	3	2	2	G11862	(NeuAc)4 (Gal)4 (Fuc)1 (GlcNAc)6 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3681.31	3681.31	35.29	23.15	19.67	16.12	
+
+Scan540@1425.72_3	1425.72	18264.4	3	4231.18	0	0	0	No Results Found 									
+
+Scan542@1748.88_2	1748.88	17886.6	2	3474.77	0	0	0	No Results Found 									
+
+Scan544@1613.82_2	1613.82	16209.7	2	3204.65	0	0	0	No Results Found 									
+
+Scan546@1742.89_2	1742.89	16028.0	2	3462.79	0	0	0	No Results Found 									
+
+Scan548@1824.93_1	1824.93	15063.6	1	1824.93	1	1	1	G05664	(GlcNAc)3 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-6)[GlcNAc(b1-3)Man(a1-3)][GlcNAc(b1-4)]Man(b1-4)GlcNAc	1437.52	1437.52	32.14	11.46	42.86	6.09	
+Scan548@1824.93_1	1824.93	15063.6	1	1824.93	2	1	2	G10334	(GlcNAc)3 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-6)[GlcNAc(b1-4)][Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1437.52	1437.52	32.14	11.46	35.71	5.91	
+Scan548@1824.93_1	1824.93	15063.6	1	1824.93	3	1	3	G05238	(GlcNAc)3 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[GlcNAc(1-4)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	1437.52(Asn)	1437.52	32.14	12.5	33.33	4.76	
+
+Scan549@1806.4_2	1806.4	17683.5	2	3589.81	1	1	1	G11876	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)][Gal(b1-4)GlcNAc(b1-4)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	13.33	16.15	13.57	23.11	
+Scan549@1806.4_2	1806.4	17683.5	2	3589.81	2	1	2	G11883	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)][Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	13.33	15.1	13.57	22.84	
+Scan549@1806.4_2	1806.4	17683.5	2	3589.81	3	1	3	G02657	(Gal)5 (Fuc)1 (GlcNAc)7 (Man)3	Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2882.06	2882.06	11.67	18.23	13.33	20.04	
+
+Scan551@1828.92_2	1828.92	12343.9	2	3634.85	0	0	0	No Results Found 									
+
+Scan553@1569.8_2	1569.8	13986.7	2	3116.61	0	0	0	No Results Found 									
+
+Scan555@1865.95_2	1865.95	13040.8	2	3708.91	1	1	1	G03600	(Gal)6 (Xyl)1 (Me)6 (Fuc)1 (GlcNAc)4 (GalNAc)2 (Man)3	Gal(b1-6)Gal(b1-3)[Gal(b1-6)]GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-6)Gal(b1-3)[Gal(b1-6)]GalNAc(b1-4)GlcNAc(b1-2)Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	3057.17	2973.07	6.25	16.0	5.21	4.03	
+
+Scan558@1439.73_2	1439.73	15582.5	2	2856.47	0	0	0	No Results Found 									
+
+Scan560@1640.82_2	1640.82	12684.1	2	3258.65	0	0	0	No Results Found 									
+
+Scan562@1515.76_2	1515.76	14296.2	2	3008.53	1	1	3	G03749	(NeuAc)2 (Gal)1 (Fuc)1 (GlcNAc)5 (Man)3	NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc(b1-4)[GlcNAc(b1-2)]Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2409.87	2409.87	34.09	23.61	19.09	20.79	
+Scan562@1515.76_2	1515.76	14296.2	2	3008.53	2	1	4	G03817	(NeuAc)2 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3	NeuAc(a2-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2409.87	2409.87	29.55	21.53	16.36	20.21	
+Scan562@1515.76_2	1515.76	14296.2	2	3008.53	3	1	5	G11445	(NeuAc)2 (Gal)1 (Fuc)1 (GlcNAc)4 (GalNAc)1 (Man)3 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)[NeuAc(a2-6)GalNAc(b1-4)GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2409.87(Asn)	2409.87	29.55	19.44	16.36	19.86	
+
+Scan564@1512.76_2	1512.76	13853.2	2	3002.53	0	0	0	No Results Found 									
+
+Scan566@1851.93_2	1851.93	13631.1	2	3680.87	0	0	0	No Results Found 									
+
+Scan568@1815.92_2	1815.92	15090.2	2	3608.85	0	0	0	No Results Found 									
+
+Scan570@1751.881_1	1751.881	5834.35	1	1751.881	1	1	1	G05147	(Fuc)1 (GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(a1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1380.5(Asn)	1380.5	28.57	12.5	22.62	7.5	
+Scan570@1751.881_1	1751.881	5834.35	1	1751.881	1	1	1	G05526	(Fuc)1 (GlcNAc)2 (Man)5	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1380.5	1380.5	28.57	12.5	22.62	7.5	
+Scan570@1751.881_1	1751.881	5834.35	1	1751.881	1	1	1	G01862	(Fuc)1 (GlcNAc)2 (Man)5 (Asn)1	Man(a1-3)[Man(a1-6)]Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1380.5(Asn)	1380.5	28.57	12.5	22.62	7.5	
+Scan570@1751.881_1	1751.881	5834.35	1	1751.881	2	1	2	G05845	(Xyl)1 (Fuc)1 (GlcNAc)3 (Man)3	GlcNAc(b1-)Man(a1-6)[Man(a1-3)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1391.51	1391.51	10.71	6.52	17.86	8.54	
+Scan570@1751.881_1	1751.881	5834.35	1	1751.881	3	1	3	G05762	(Xyl)1 (Fuc)1 (GlcNAc)3 (Man)3	GlcNAc(b1-)Man(a1-3)[Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1391.51	1391.51	10.71	4.35	17.86	8.74	
+
+Scan571@1855.916_2	1855.916	2873.78	2	3688.842	1	1	6	G11343	(NeuAc)2 (Gal)4 (GlcNAc)6 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2953.06	2953.06	8.93	3.89	4.4	4.72	
+Scan571@1855.916_2	1855.916	2873.78	2	3688.842	2	2	4	G09791	(NeuAc)2 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2953.06	2953.06	8.93	5.56	4.95	6.16	
+Scan571@1855.916_2	1855.916	2873.78	2	3688.842	3	2	5	G03772	(NeuAc)2 (Gal)4 (GlcNAc)6 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2953.06	2953.06	8.93	4.44	4.95	5.99	
+
+Scan573@1414.21_2	1414.21	11099.6	2	2805.43	1	1	1	G04164	(Gal)2 (GlcNAc)7 (Man)3	GlcNAc(b1-3)[GlcNAc(b1-6)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-3)[GlcNAc(b1-6)]Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc	2249.84	2249.84	27.27	29.17	29.55	27.79	
+Scan573@1414.21_2	1414.21	11099.6	2	2805.43	2	1	2	G03940	(GlcNAc)2 (Man)11 (Asn)1	Man(a1-3)Man(a1-2)Man(a1-2)[Man(a1-2)Man(a1-6)]Man(a1-3)[Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2206.76(Asn)	2206.76	25.0	25.0	19.32	22.59	
+Scan573@1414.21_2	1414.21	11099.6	2	2805.43	3	1	3	G04196	(Gal)2 (GlcNAc)2 (Man)9	Gal(1-)Man(a1-2)Man(a1-6)[Man(a1-2)Man(a1-3)]Man(a1-6)[Gal(1-)Man(a1-2)Man(a1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2206.76	2206.76	22.92	27.78	17.8	22.59	
+
+Scan575@1490.25_2	1490.25	10210.2	2	2957.51	0	0	0	No Results Found 									
+
+Scan578@1550.79_3	1550.79	22952.7	3	4606.391	0	0	0	No Results Found 									
+
+Scan580@1483.75_3	1483.75	18281.7	3	4405.27	0	0	0	No Results Found 									
+
+Scan582@1464.73_2	1464.73	12597.9	2	2906.47	1	1	1	G04084	(Gal)2 (Fuc)2 (GlcNAc)5 (GalNAc)1 (Man)3	GalNAc(a1-3)[Fuc(a1-2)]Gal(b1-4)GlcNAc(b1-2)Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	2338.87	2338.87	31.25	35.26	35.61	33.07	
+
+Scan584@1555.8_3	1555.8	17985.2	3	4621.421	0	0	0	No Results Found 									
+
+Scan586@1893.96_2	1893.96	13883.8	2	3764.93	0	0	0	No Results Found 									
+
+Scan588@1799.9_2	1799.9	13111.5	2	3576.81	0	0	0	No Results Found 									
+
+Scan590@1734.87_2	1734.87	13316.1	2	3446.75	1	1	1	G09961	(NeuAc)2 (Gal)4 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2749.98	2749.98	25.0	10.71	10.26	14.03	
+Scan590@1734.87_2	1734.87	13316.1	2	3446.75	2	2	2	G06648	(NeuAc)2 (Gal)4 (GlcNAc)5 (Man)3	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)[NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(b1-4)GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc	2749.98	2749.98	26.92	10.71	7.69	13.86	
+
+Scan592@1861.913_2	1861.913	9616.98	2	3700.835	0	0	0	No Results Found 									
+
+Scan594@1669.84_2	1669.84	12119.4	2	3316.69	1	1	1	G03857	(Gal)4 (Fuc)2 (GlcNAc)6 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2662.98	2662.98	44.64	20.56	18.41	17.79	
+Scan594@1669.84_2	1669.84	12119.4	2	3316.69	2	1	2	G02669	(Gal)4 (Fuc)2 (GlcNAc)6 (Man)3	Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-4)[Gal(b1-4)GlcNAc(b1-2)]Man(a1-3)[Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-2)[Gal(b1-4)GlcNAc(b1-6)]Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2662.98	2662.98	44.64	21.11	18.41	17.59	
+
+Scan596@1522.76_2	1522.76	9851.66	2	3022.53	0	0	0	No Results Found 									
+
+Scan599@1757.89_2	1757.89	11056.9	2	3492.79	0	0	0	No Results Found 									
+
+Scan600@1952.99_1	1952.99	11630.5	1	1952.99	1	1	1	G05218	(Gal)1 (Xyl)1 (Fuc)1 (GlcNAc)3 (Man)3	Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1553.56	1553.56	6.25	2.88	13.39	9.84	
+Scan600@1952.99_1	1952.99	11630.5	1	1952.99	2	1	2	G05385	(Gal)1 (Xyl)1 (Fuc)1 (GlcNAc)3 (Man)3	Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1553.56	1553.56	6.25	2.88	13.39	9.7	
+Scan600@1952.99_1	1952.99	11630.5	1	1952.99	3	1	3	G11710	(NeuAc)1 (Gal)1 (Fuc)1 (GlcNAc)3 (Man)2 (Asn)1	NeuAc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)Man(b1-4)GlcNAc(b1-4)[Fuc(a1-6)]GlcNAc	1550.56(Asn)	1550.56	21.43	2.08	4.76	2.97	
+
+Scan602@1991.01_1	1991.01	12293.2	1	1991.01	0	0	0	No Results Found 									
+
+Scan604@1727.87_2	1727.87	10113.2	2	3432.75	0	0	0	No Results Found 									
+
+Scan606@1797.91_2	1797.91	8463.75	2	3572.83	0	0	0	No Results Found 									
+
+Scan607@1844.93_2	1844.93	11092.4	2	3666.87	0	0	0	No Results Found 									
+
+Scan609@1698.86_2	1698.86	10460.1	2	3374.73	1	1	3	G03855	(Glc)3 (GlcNAc)1 (Man)12	Glc(a1-2)Glc(a1-3)Glc(a1-3)Man(a1-2)Man(a1-2)[Man(a1-3)Man(a1-2)Man(a1-6)]Man(a1-3)[Man(a1-3)Man(a1-2)Man(a1-6)[Man(a1-3)]Man(a1-6)]Man(b1-4)GlcNAc	2651.89	2651.89	25.0	11.46	15.24	8.98	
+Scan609@1698.86_2	1698.86	10460.1	2	3374.73	2	2	1	G11323	(Gal)6 (GlcNAc)6 (Man)3	Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(a1-4)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2694.97	2694.97	8.93	11.67	21.98	15.12	
+Scan609@1698.86_2	1698.86	10460.1	2	3374.73	3	2	2	G11501	(Gal)6 (GlcNAc)6 (Man)3 (Asn)1	Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-4)]Man(a1-3)[Gal(a1-3)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)][GlcNAc(b1-4)]Man(b1-4)GlcNAc(b1-4)GlcNAc	2694.97(Asn)	2694.97	8.93	10.0	21.98	15.17	
+
+Scan611@1933.949_1	1933.949	9391.47	1	1933.949	0	0	0	No Results Found 									
+
+Scan613@1915.97_2	1915.97	11393.2	2	3808.95	0	0	0	No Results Found 									
+
+Scan614@1954.99_1	1954.99	11420.0	1	1954.99	1	1	1	G05218	(Gal)1 (Xyl)1 (Fuc)1 (GlcNAc)3 (Man)3	Gal(b1-3)GlcNAc(b1-2)Man(a1-3)[Man(a1-6)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1553.56	1553.56	28.12	2.88	7.14	5.46	
+Scan614@1954.99_1	1954.99	11420.0	1	1954.99	2	1	2	G05385	(Gal)1 (Xyl)1 (Fuc)1 (GlcNAc)3 (Man)3	Gal(b1-3)GlcNAc(b1-2)Man(a1-6)[Man(a1-3)][Xyl(b1-2)]Man(b1-4)GlcNAc(b1-4)[Fuc(a1-3)]GlcNAc	1553.56	1553.56	28.12	2.88	7.14	5.19	
